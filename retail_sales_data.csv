@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product_Category,Product_Name,Quantity,Unit_Price,Total_Sales,Region,Payment_Method
+ORD1000,2023-01-01,CUST754,Manoj,Electronics,Tablet,1,2042.62,2042.62,Galle,Cash
+ORD1001,2023-01-01,CUST214,Nimal,Home Appliances,Fan,6,1200.24,7201.44,Galle,Cash
+ORD1002,2023-01-02,CUST125,Anjali,Toys,Puzzle,3,774.24,2322.72,Galle,Card
+ORD1003,2023-01-03,CUST859,Praveen,Toys,Doll,8,2298.15,18385.2,Colombo,Cash
+ORD1004,2023-01-03,CUST381,Tharindu,Electronics,Headphones,4,4191.32,16765.28,Kurunegala,Online
+ORD1005,2023-01-04,CUST350,Anjali,Books,Notebook,7,644.82,4513.74,Galle,Cash
+ORD1006,2023-01-05,CUST328,Ramesh,Groceries,Rice,1,1268.35,1268.35,Matara,Online
+ORD1007,2023-01-06,CUST242,Ramesh,Home Appliances,Fan,2,4199.77,8399.54,Jaffna,Online
+ORD1008,2023-01-06,CUST854,Manoj,Books,Novel,9,2917.73,26259.57,Matara,Cash
+ORD1009,2023-01-07,CUST204,Tharindu,Groceries,Bread,1,3112.57,3112.57,Kandy,Online
+ORD1010,2023-01-08,CUST792,Praveen,Home Appliances,Mixer,2,2665.07,5330.14,Galle,Cash
+ORD1011,2023-01-09,CUST858,Dilani,Books,Notebook,9,3953.42,35580.78,Kurunegala,Online
+ORD1012,2023-01-09,CUST658,Sutharsiga,Electronics,Tablet,8,313.32,2506.56,Jaffna,Card
+ORD1013,2023-01-10,CUST189,Kavya,Groceries,Rice,6,3963.75,23782.5,Galle,Cash
+ORD1014,2023-01-11,CUST704,Praveen,Toys,Car Toy,10,3702.42,37024.2,Galle,Cash
+ORD1015,2023-01-11,CUST532,Ramesh,Electronics,Headphones,9,1758.88,15829.92,Matara,Cash
+ORD1016,2023-01-12,CUST132,Sutharsiga,Toys,Ball,8,3195.51,25564.08,Kandy,Cash
+ORD1017,2023-01-13,CUST130,Ramesh,Toys,Ball,1,1537.87,1537.87,Colombo,Cash
+ORD1018,2023-01-14,CUST195,Tharindu,Electronics,Headphones,5,2625.38,13126.9,Kurunegala,Card
+ORD1019,2023-01-14,CUST323,Tharindu,Groceries,Rice,4,1501.94,6007.76,Colombo,Online
+ORD1020,2023-01-15,CUST338,Manoj,Groceries,Oil,2,4016.78,8033.56,Jaffna,Card
+ORD1021,2023-01-16,CUST617,Dilani,Toys,Ball,7,1761.28,12328.96,Kandy,Card
+ORD1022,2023-01-17,CUST716,Arjun,Toys,Ball,6,4629.12,27774.72,Kurunegala,Card
+ORD1023,2023-01-17,CUST127,Ramesh,Electronics,Tablet,2,2209.98,4419.96,Kandy,Online
+ORD1024,2023-01-18,CUST674,Dilani,Groceries,Oil,2,492.34,984.68,Matara,Card
+ORD1025,2023-01-19,CUST303,Nimal,Groceries,Bread,10,3616.55,36165.5,Kandy,Online
+ORD1026,2023-01-19,CUST833,Ramesh,Home Appliances,Microwave,8,307.54,2460.32,Galle,Online
+ORD1027,2023-01-20,CUST765,Sutharsiga,Home Appliances,Microwave,1,467.7,467.7,Matara,Card
+ORD1028,2023-01-21,CUST818,Dilani,Groceries,Eggs,3,4768.67,14306.01,Kandy,Online
+ORD1029,2023-01-22,CUST658,Praveen,Toys,Ball,1,718.53,718.53,Kandy,Online
+ORD1030,2023-01-22,CUST529,Dilani,Groceries,Oil,7,4752.39,33266.73,Colombo,Online
+ORD1031,2023-01-23,CUST325,Praveen,Clothing,Jacket,6,1922.87,11537.22,Colombo,Online
+ORD1032,2023-01-24,CUST559,Tharindu,Clothing,Shoes,6,2050.37,12302.22,Matara,Card
+ORD1033,2023-01-25,CUST703,Praveen,Clothing,Shirt,1,3704.81,3704.81,Jaffna,Online
+ORD1034,2023-01-25,CUST384,Anjali,Home Appliances,Washing Machine,2,1382.71,2765.42,Galle,Online
+ORD1035,2023-01-26,CUST928,Arjun,Home Appliances,Mixer,10,1499.33,14993.3,Jaffna,Cash
+ORD1036,2023-01-27,CUST990,Anjali,Electronics,Laptop,2,2315.01,4630.02,Matara,Card
+ORD1037,2023-01-28,CUST106,Sutharsiga,Electronics,Headphones,6,3576.75,21460.5,Kurunegala,Online
+ORD1038,2023-01-28,CUST877,Kavya,Groceries,Oil,3,3587.86,10763.58,Matara,Online
+ORD1039,2023-01-29,CUST925,Sutharsiga,Clothing,Dress,9,1198.78,10789.02,Kandy,Cash
+ORD1040,2023-01-30,CUST263,Manoj,Clothing,Jacket,1,1868.39,1868.39,Kurunegala,Card
+ORD1041,2023-01-30,CUST814,Ramesh,Home Appliances,Washing Machine,3,3098.55,9295.65,Colombo,Cash
+ORD1042,2023-01-31,CUST532,Anjali,Groceries,Bread,8,2675.91,21407.28,Jaffna,Online
+ORD1043,2023-02-01,CUST448,Sutharsiga,Electronics,Laptop,6,3247.46,19484.76,Jaffna,Card
+ORD1044,2023-02-02,CUST384,Ramesh,Toys,Blocks,6,728.84,4373.04,Kurunegala,Online
+ORD1045,2023-02-02,CUST259,Ramesh,Books,Textbook,3,2219.83,6659.49,Colombo,Cash
+ORD1046,2023-02-03,CUST320,Ramesh,Books,Textbook,5,906.82,4534.1,Galle,Online
+ORD1047,2023-02-04,CUST881,Arjun,Clothing,Dress,9,4485.14,40366.26,Colombo,Card
+ORD1048,2023-02-05,CUST444,Kavya,Clothing,Shoes,5,713.33,3566.65,Galle,Online
+ORD1049,2023-02-05,CUST204,Praveen,Books,Novel,9,3240.84,29167.56,Kurunegala,Online
+ORD1050,2023-02-06,CUST194,Sutharsiga,Clothing,Jeans,10,3631.1,36311.0,Kurunegala,Card
+ORD1051,2023-02-07,CUST489,Manoj,Books,Novel,1,497.99,497.99,Matara,Online
+ORD1052,2023-02-07,CUST199,Sutharsiga,Groceries,Milk,10,2141.28,21412.8,Matara,Cash
+ORD1053,2023-02-08,CUST467,Praveen,Home Appliances,Washing Machine,5,3245.35,16226.75,Galle,Card
+ORD1054,2023-02-09,CUST967,Tharindu,Clothing,Jacket,5,2322.37,11611.85,Matara,Cash
+ORD1055,2023-02-10,CUST452,Dilani,Clothing,Jacket,7,2472.83,17309.81,Kandy,Card
+ORD1056,2023-02-10,CUST718,Ramesh,Books,Textbook,6,4321.28,25927.68,Galle,Online
+ORD1057,2023-02-11,CUST370,Anjali,Groceries,Bread,3,3827.26,11481.78,Kurunegala,Online
+ORD1058,2023-02-12,CUST926,Anjali,Electronics,Headphones,4,2385.72,9542.88,Galle,Card
+ORD1059,2023-02-13,CUST144,Dilani,Clothing,Jeans,2,347.97,695.94,Jaffna,Online
+ORD1060,2023-02-13,CUST847,Manoj,Home Appliances,Mixer,3,4086.04,12258.12,Kurunegala,Online
+ORD1061,2023-02-14,CUST570,Anjali,Groceries,Milk,3,2541.5,7624.5,Kurunegala,Card
+ORD1062,2023-02-15,CUST649,Dilani,Home Appliances,Microwave,8,213.56,1708.48,Jaffna,Online
+ORD1063,2023-02-16,CUST227,Dilani,Home Appliances,Mixer,4,2958.39,11833.56,Colombo,Cash
+ORD1064,2023-02-16,CUST487,Ramesh,Groceries,Bread,10,4423.46,44234.6,Matara,Online
+ORD1065,2023-02-17,CUST180,Praveen,Home Appliances,Microwave,9,140.07,1260.63,Colombo,Card
+ORD1066,2023-02-18,CUST665,Praveen,Clothing,Dress,6,3842.9,23057.4,Galle,Cash
+ORD1067,2023-02-18,CUST400,Praveen,Home Appliances,Fan,10,2852.9,28529.0,Galle,Online
+ORD1068,2023-02-19,CUST949,Sutharsiga,Groceries,Rice,7,2570.85,17995.95,Kurunegala,Card
+ORD1069,2023-02-20,CUST743,Kavya,Books,Notebook,2,730.45,1460.9,Colombo,Card
+ORD1070,2023-02-21,CUST733,Sutharsiga,Groceries,Oil,9,4700.85,42307.65,Kandy,Cash
+ORD1071,2023-02-21,CUST982,Dilani,Books,Notebook,7,2550.38,17852.66,Colombo,Cash
+ORD1072,2023-02-22,CUST470,Kavya,Clothing,Dress,8,2644.73,21157.84,Kandy,Online
+ORD1073,2023-02-23,CUST691,Anjali,Books,Textbook,6,4663.71,27982.26,Galle,Cash
+ORD1074,2023-02-24,CUST296,Nimal,Home Appliances,Washing Machine,5,3009.25,15046.25,Kurunegala,Online
+ORD1075,2023-02-24,CUST821,Sutharsiga,Books,Magazine,10,1568.97,15689.7,Colombo,Card
+ORD1076,2023-02-25,CUST171,Sutharsiga,Groceries,Rice,7,2960.14,20720.98,Matara,Online
+ORD1077,2023-02-26,CUST146,Ramesh,Toys,Car Toy,10,2425.49,24254.9,Matara,Online
+ORD1078,2023-02-26,CUST777,Praveen,Books,Textbook,1,2959.26,2959.26,Kandy,Online
+ORD1079,2023-02-27,CUST333,Tharindu,Toys,Blocks,7,824.1,5768.7,Matara,Cash
+ORD1080,2023-02-28,CUST891,Anjali,Electronics,Smartwatch,2,1034.84,2069.68,Jaffna,Card
+ORD1081,2023-03-01,CUST396,Tharindu,Home Appliances,Mixer,7,3483.45,24384.15,Jaffna,Online
+ORD1082,2023-03-01,CUST181,Praveen,Books,Magazine,1,3558.3,3558.3,Kurunegala,Cash
+ORD1083,2023-03-02,CUST975,Kavya,Books,Comics,8,2674.84,21398.72,Galle,Cash
+ORD1084,2023-03-03,CUST338,Sutharsiga,Home Appliances,Washing Machine,6,2776.74,16660.44,Matara,Online
+ORD1085,2023-03-04,CUST987,Praveen,Toys,Puzzle,10,2472.48,24724.8,Kandy,Card
+ORD1086,2023-03-04,CUST203,Sutharsiga,Books,Comics,4,4713.28,18853.12,Galle,Card
+ORD1087,2023-03-05,CUST489,Dilani,Toys,Doll,8,1653.5,13228.0,Galle,Online
+ORD1088,2023-03-06,CUST384,Nimal,Toys,Puzzle,5,697.18,3485.9,Matara,Online
+ORD1089,2023-03-07,CUST564,Praveen,Home Appliances,Fridge,6,4777.58,28665.48,Kandy,Card
+ORD1090,2023-03-07,CUST750,Arjun,Electronics,Headphones,2,1797.18,3594.36,Jaffna,Online
+ORD1091,2023-03-08,CUST954,Anjali,Groceries,Bread,4,1090.13,4360.52,Kurunegala,Card
+ORD1092,2023-03-09,CUST473,Nimal,Books,Comics,3,635.21,1905.63,Matara,Online
+ORD1093,2023-03-09,CUST266,Praveen,Clothing,Jeans,1,3382.19,3382.19,Kurunegala,Cash
+ORD1094,2023-03-10,CUST479,Arjun,Toys,Doll,1,590.97,590.97,Galle,Online
+ORD1095,2023-03-11,CUST463,Arjun,Home Appliances,Fan,3,125.39,376.17,Kurunegala,Cash
+ORD1096,2023-03-12,CUST314,Anjali,Home Appliances,Fridge,8,3287.64,26301.12,Galle,Card
+ORD1097,2023-03-12,CUST786,Praveen,Groceries,Rice,2,3296.26,6592.52,Kandy,Online
+ORD1098,2023-03-13,CUST373,Nimal,Toys,Car Toy,3,2147.64,6442.92,Kandy,Cash
+ORD1099,2023-03-14,CUST818,Ramesh,Home Appliances,Fridge,3,4689.38,14068.14,Galle,Cash
+ORD1100,2023-03-15,CUST799,Kavya,Electronics,Headphones,10,3053.64,30536.4,Galle,Card
+ORD1101,2023-03-15,CUST763,Arjun,Home Appliances,Washing Machine,9,2520.17,22681.53,Kandy,Online
+ORD1102,2023-03-16,CUST173,Tharindu,Home Appliances,Microwave,4,4063.19,16252.76,Galle,Cash
+ORD1103,2023-03-17,CUST723,Praveen,Toys,Ball,5,3621.13,18105.65,Colombo,Online
+ORD1104,2023-03-17,CUST750,Ramesh,Groceries,Oil,10,3404.57,34045.7,Kandy,Cash
+ORD1105,2023-03-18,CUST275,Ramesh,Books,Magazine,7,2624.88,18374.16,Colombo,Card
+ORD1106,2023-03-19,CUST646,Ramesh,Toys,Car Toy,3,4910.26,14730.78,Jaffna,Card
+ORD1107,2023-03-20,CUST846,Dilani,Clothing,Shirt,5,1979.51,9897.55,Jaffna,Card
+ORD1108,2023-03-20,CUST350,Nimal,Groceries,Oil,10,3642.12,36421.2,Colombo,Card
+ORD1109,2023-03-21,CUST267,Arjun,Toys,Puzzle,4,404.41,1617.64,Colombo,Card
+ORD1110,2023-03-22,CUST573,Praveen,Groceries,Milk,7,3461.76,24232.32,Matara,Card
+ORD1111,2023-03-23,CUST488,Ramesh,Toys,Car Toy,5,1900.97,9504.85,Kandy,Cash
+ORD1112,2023-03-23,CUST376,Kavya,Clothing,Jacket,3,2329.4,6988.2,Kurunegala,Card
+ORD1113,2023-03-24,CUST755,Kavya,Home Appliances,Washing Machine,8,3811.02,30488.16,Matara,Cash
+ORD1114,2023-03-25,CUST804,Manoj,Clothing,Shoes,2,2674.98,5349.96,Kurunegala,Online
+ORD1115,2023-03-26,CUST670,Ramesh,Groceries,Rice,10,649.82,6498.2,Kurunegala,Online
+ORD1116,2023-03-26,CUST324,Kavya,Clothing,Shoes,9,834.28,7508.52,Galle,Online
+ORD1117,2023-03-27,CUST801,Tharindu,Home Appliances,Fan,4,3612.9,14451.6,Jaffna,Cash
+ORD1118,2023-03-28,CUST432,Arjun,Books,Magazine,1,2321.82,2321.82,Kurunegala,Card
+ORD1119,2023-03-28,CUST963,Nimal,Home Appliances,Washing Machine,1,2838.11,2838.11,Matara,Card
+ORD1120,2023-03-29,CUST886,Nimal,Toys,Car Toy,7,1346.84,9427.88,Colombo,Online
+ORD1121,2023-03-30,CUST894,Tharindu,Clothing,Shoes,2,321.92,643.84,Galle,Online
+ORD1122,2023-03-31,CUST157,Praveen,Electronics,Smartwatch,1,4679.46,4679.46,Colombo,Card
+ORD1123,2023-03-31,CUST334,Kavya,Electronics,Headphones,7,981.91,6873.37,Kandy,Online
+ORD1124,2023-04-01,CUST941,Sutharsiga,Toys,Ball,6,4965.0,29790.0,Jaffna,Card
+ORD1125,2023-04-02,CUST132,Kavya,Home Appliances,Fridge,2,3445.38,6890.76,Matara,Online
+ORD1126,2023-04-03,CUST924,Anjali,Clothing,Dress,2,974.52,1949.04,Kurunegala,Card
+ORD1127,2023-04-03,CUST423,Manoj,Books,Textbook,4,4190.63,16762.52,Colombo,Card
+ORD1128,2023-04-04,CUST510,Tharindu,Home Appliances,Washing Machine,7,2706.47,18945.29,Kandy,Cash
+ORD1129,2023-04-05,CUST374,Tharindu,Home Appliances,Microwave,3,1450.68,4352.04,Matara,Cash
+ORD1130,2023-04-05,CUST167,Tharindu,Electronics,Tablet,10,3853.66,38536.6,Colombo,Cash
+ORD1131,2023-04-06,CUST316,Sutharsiga,Clothing,Shirt,2,3010.33,6020.66,Jaffna,Online
+ORD1132,2023-04-07,CUST680,Anjali,Toys,Car Toy,4,3728.65,14914.6,Jaffna,Card
+ORD1133,2023-04-08,CUST997,Manoj,Clothing,Shoes,4,3796.49,15185.96,Colombo,Cash
+ORD1134,2023-04-08,CUST835,Ramesh,Books,Comics,4,4097.35,16389.4,Matara,Online
+ORD1135,2023-04-09,CUST422,Ramesh,Groceries,Eggs,10,3885.44,38854.4,Galle,Cash
+ORD1136,2023-04-10,CUST317,Praveen,Groceries,Milk,9,1183.11,10647.99,Galle,Card
+ORD1137,2023-04-11,CUST771,Tharindu,Electronics,Smartwatch,10,4410.6,44106.0,Kandy,Online
+ORD1138,2023-04-11,CUST611,Manoj,Toys,Ball,9,2528.54,22756.86,Galle,Online
+ORD1139,2023-04-12,CUST505,Praveen,Toys,Ball,9,1661.8,14956.2,Jaffna,Card
+ORD1140,2023-04-13,CUST758,Tharindu,Clothing,Dress,7,1001.01,7007.07,Kurunegala,Card
+ORD1141,2023-04-14,CUST569,Tharindu,Clothing,Jeans,5,4301.95,21509.75,Kandy,Card
+ORD1142,2023-04-14,CUST246,Arjun,Electronics,Smartwatch,7,4842.15,33895.05,Kurunegala,Online
+ORD1143,2023-04-15,CUST371,Tharindu,Clothing,Jacket,4,1349.48,5397.92,Galle,Online
+ORD1144,2023-04-16,CUST242,Kavya,Electronics,Tablet,6,553.07,3318.42,Matara,Cash
+ORD1145,2023-04-16,CUST352,Sutharsiga,Electronics,Headphones,7,3400.99,23806.93,Kurunegala,Cash
+ORD1146,2023-04-17,CUST862,Sutharsiga,Electronics,Laptop,10,3649.1,36491.0,Kurunegala,Cash
+ORD1147,2023-04-18,CUST674,Praveen,Home Appliances,Mixer,6,1585.62,9513.72,Colombo,Cash
+ORD1148,2023-04-19,CUST651,Kavya,Clothing,Shirt,8,4580.76,36646.08,Matara,Online
+ORD1149,2023-04-19,CUST369,Nimal,Toys,Doll,7,4584.12,32088.84,Kurunegala,Card
+ORD1150,2023-04-20,CUST864,Sutharsiga,Groceries,Bread,8,2714.89,21719.12,Galle,Card
+ORD1151,2023-04-21,CUST698,Nimal,Groceries,Oil,9,4425.78,39832.02,Jaffna,Cash
+ORD1152,2023-04-22,CUST538,Anjali,Toys,Ball,6,4580.22,27481.32,Galle,Card
+ORD1153,2023-04-22,CUST697,Kavya,Home Appliances,Fan,10,4334.02,43340.2,Matara,Cash
+ORD1154,2023-04-23,CUST508,Nimal,Electronics,Headphones,9,4680.32,42122.88,Kurunegala,Online
+ORD1155,2023-04-24,CUST470,Arjun,Home Appliances,Microwave,3,1061.34,3184.02,Kandy,Card
+ORD1156,2023-04-24,CUST324,Manoj,Books,Textbook,8,2798.15,22385.2,Matara,Card
+ORD1157,2023-04-25,CUST241,Ramesh,Groceries,Bread,8,2358.06,18864.48,Matara,Card
+ORD1158,2023-04-26,CUST621,Tharindu,Clothing,Jeans,9,2492.75,22434.75,Kurunegala,Online
+ORD1159,2023-04-27,CUST605,Ramesh,Electronics,Smartwatch,1,4211.44,4211.44,Colombo,Online
+ORD1160,2023-04-27,CUST193,Praveen,Electronics,Mobile,7,773.71,5415.97,Matara,Cash
+ORD1161,2023-04-28,CUST873,Arjun,Electronics,Laptop,1,1171.73,1171.73,Jaffna,Card
+ORD1162,2023-04-29,CUST148,Sutharsiga,Electronics,Smartwatch,10,4572.48,45724.8,Matara,Card
+ORD1163,2023-04-30,CUST981,Praveen,Electronics,Mobile,9,2803.05,25227.45,Colombo,Cash
+ORD1164,2023-04-30,CUST212,Praveen,Books,Comics,9,4889.65,44006.85,Colombo,Online
+ORD1165,2023-05-01,CUST256,Ramesh,Toys,Ball,3,624.38,1873.14,Colombo,Online
+ORD1166,2023-05-02,CUST742,Kavya,Clothing,Jeans,4,3136.93,12547.72,Galle,Card
+ORD1167,2023-05-03,CUST263,Sutharsiga,Groceries,Bread,2,1927.95,3855.9,Jaffna,Card
+ORD1168,2023-05-03,CUST911,Praveen,Books,Textbook,4,1569.88,6279.52,Colombo,Online
+ORD1169,2023-05-04,CUST796,Tharindu,Toys,Car Toy,2,2085.86,4171.72,Jaffna,Online
+ORD1170,2023-05-05,CUST532,Sutharsiga,Home Appliances,Fan,1,3543.94,3543.94,Colombo,Card
+ORD1171,2023-05-05,CUST710,Manoj,Home Appliances,Microwave,10,4888.91,48889.1,Colombo,Online
+ORD1172,2023-05-06,CUST165,Kavya,Electronics,Laptop,4,4516.24,18064.96,Matara,Online
+ORD1173,2023-05-07,CUST494,Anjali,Home Appliances,Microwave,1,4628.38,4628.38,Matara,Card
+ORD1174,2023-05-08,CUST490,Sutharsiga,Books,Notebook,1,978.84,978.84,Galle,Cash
+ORD1175,2023-05-08,CUST710,Nimal,Clothing,Shoes,3,3786.05,11358.15,Matara,Card
+ORD1176,2023-05-09,CUST579,Praveen,Electronics,Headphones,3,2863.4,8590.2,Kurunegala,Card
+ORD1177,2023-05-10,CUST641,Nimal,Toys,Blocks,6,1980.85,11885.1,Matara,Cash
+ORD1178,2023-05-11,CUST357,Kavya,Toys,Car Toy,9,3752.74,33774.66,Galle,Cash
+ORD1179,2023-05-11,CUST666,Arjun,Electronics,Tablet,4,4209.51,16838.04,Galle,Online
+ORD1180,2023-05-12,CUST981,Nimal,Books,Notebook,7,4847.71,33933.97,Galle,Cash
+ORD1181,2023-05-13,CUST111,Praveen,Toys,Puzzle,8,2503.96,20031.68,Galle,Online
+ORD1182,2023-05-13,CUST796,Tharindu,Home Appliances,Fridge,3,3430.5,10291.5,Matara,Card
+ORD1183,2023-05-14,CUST838,Tharindu,Electronics,Smartwatch,5,4010.47,20052.35,Matara,Cash
+ORD1184,2023-05-15,CUST217,Praveen,Electronics,Headphones,3,1962.0,5886.0,Matara,Cash
+ORD1185,2023-05-16,CUST798,Ramesh,Toys,Ball,6,1867.43,11204.58,Colombo,Cash
+ORD1186,2023-05-16,CUST649,Kavya,Groceries,Bread,6,3830.6,22983.6,Colombo,Cash
+ORD1187,2023-05-17,CUST868,Ramesh,Electronics,Laptop,7,2299.33,16095.31,Kurunegala,Online
+ORD1188,2023-05-18,CUST373,Praveen,Home Appliances,Fan,1,539.13,539.13,Kurunegala,Cash
+ORD1189,2023-05-19,CUST887,Manoj,Books,Notebook,6,4332.22,25993.32,Colombo,Card
+ORD1190,2023-05-19,CUST756,Praveen,Home Appliances,Fridge,2,3651.73,7303.46,Kurunegala,Cash
+ORD1191,2023-05-20,CUST448,Anjali,Books,Notebook,3,3458.05,10374.15,Kandy,Cash
+ORD1192,2023-05-21,CUST214,Anjali,Groceries,Oil,5,2516.31,12581.55,Colombo,Cash
+ORD1193,2023-05-22,CUST400,Ramesh,Home Appliances,Microwave,7,1568.79,10981.53,Colombo,Card
+ORD1194,2023-05-22,CUST545,Ramesh,Groceries,Milk,8,3009.65,24077.2,Kandy,Card
+ORD1195,2023-05-23,CUST261,Kavya,Electronics,Laptop,5,133.16,665.8,Jaffna,Card
+ORD1196,2023-05-24,CUST564,Tharindu,Books,Magazine,6,2257.09,13542.54,Jaffna,Online
+ORD1197,2023-05-24,CUST103,Arjun,Books,Textbook,5,1671.26,8356.3,Matara,Cash
+ORD1198,2023-05-25,CUST839,Manoj,Home Appliances,Microwave,3,4826.42,14479.26,Galle,Card
+ORD1199,2023-05-26,CUST996,Dilani,Toys,Ball,10,3931.67,39316.7,Galle,Card
+ORD1200,2023-05-27,CUST836,Tharindu,Groceries,Bread,6,658.05,3948.3,Kurunegala,Cash
+ORD1201,2023-05-27,CUST369,Praveen,Books,Notebook,3,3440.39,10321.17,Kurunegala,Cash
+ORD1202,2023-05-28,CUST612,Arjun,Toys,Ball,4,2248.43,8993.72,Galle,Online
+ORD1203,2023-05-29,CUST880,Kavya,Electronics,Tablet,8,781.98,6255.84,Galle,Cash
+ORD1204,2023-05-30,CUST282,Sutharsiga,Groceries,Milk,7,3966.48,27765.36,Colombo,Card
+ORD1205,2023-05-30,CUST619,Tharindu,Books,Magazine,10,2063.94,20639.4,Kurunegala,Online
+ORD1206,2023-05-31,CUST208,Tharindu,Home Appliances,Washing Machine,1,3974.53,3974.53,Galle,Online
+ORD1207,2023-06-01,CUST991,Arjun,Books,Notebook,2,635.91,1271.82,Kandy,Online
+ORD1208,2023-06-01,CUST740,Praveen,Toys,Puzzle,3,3270.3,9810.9,Colombo,Online
+ORD1209,2023-06-02,CUST405,Tharindu,Toys,Ball,6,4832.01,28992.06,Jaffna,Cash
+ORD1210,2023-06-03,CUST961,Arjun,Electronics,Mobile,5,1187.81,5939.05,Matara,Online
+ORD1211,2023-06-04,CUST754,Nimal,Books,Notebook,10,1183.06,11830.6,Galle,Card
+ORD1212,2023-06-04,CUST619,Ramesh,Home Appliances,Washing Machine,9,838.65,7547.85,Colombo,Card
+ORD1213,2023-06-05,CUST723,Anjali,Electronics,Headphones,7,4610.68,32274.76,Colombo,Cash
+ORD1214,2023-06-06,CUST303,Ramesh,Toys,Doll,6,1628.26,9769.56,Jaffna,Cash
+ORD1215,2023-06-07,CUST256,Praveen,Books,Magazine,6,2433.2,14599.2,Jaffna,Online
+ORD1216,2023-06-07,CUST482,Nimal,Toys,Ball,6,429.15,2574.9,Colombo,Online
+ORD1217,2023-06-08,CUST880,Tharindu,Electronics,Mobile,6,3275.05,19650.3,Matara,Cash
+ORD1218,2023-06-09,CUST265,Manoj,Toys,Doll,9,954.82,8593.38,Kandy,Card
+ORD1219,2023-06-10,CUST652,Ramesh,Books,Magazine,8,1236.09,9888.72,Jaffna,Online
+ORD1220,2023-06-10,CUST897,Kavya,Clothing,Jeans,7,2038.35,14268.45,Matara,Online
+ORD1221,2023-06-11,CUST643,Ramesh,Clothing,Jacket,10,2204.81,22048.1,Colombo,Online
+ORD1222,2023-06-12,CUST100,Dilani,Clothing,Jeans,5,3786.39,18931.95,Colombo,Online
+ORD1223,2023-06-12,CUST713,Manoj,Electronics,Smartwatch,3,1892.39,5677.17,Kandy,Card
+ORD1224,2023-06-13,CUST431,Dilani,Electronics,Headphones,8,2685.8,21486.4,Matara,Card
+ORD1225,2023-06-14,CUST600,Dilani,Books,Magazine,10,2023.47,20234.7,Colombo,Card
+ORD1226,2023-06-15,CUST119,Kavya,Groceries,Bread,10,945.38,9453.8,Matara,Online
+ORD1227,2023-06-15,CUST214,Nimal,Groceries,Eggs,10,515.28,5152.8,Kandy,Card
+ORD1228,2023-06-16,CUST471,Dilani,Electronics,Laptop,5,673.05,3365.25,Galle,Online
+ORD1229,2023-06-17,CUST999,Manoj,Clothing,Shoes,7,2149.37,15045.59,Kandy,Online
+ORD1230,2023-06-18,CUST951,Ramesh,Home Appliances,Fridge,3,2484.68,7454.04,Kurunegala,Online
+ORD1231,2023-06-18,CUST926,Praveen,Toys,Doll,9,917.64,8258.76,Galle,Cash
+ORD1232,2023-06-19,CUST414,Manoj,Clothing,Dress,8,3135.11,25080.88,Galle,Cash
+ORD1233,2023-06-20,CUST345,Anjali,Home Appliances,Mixer,4,4094.56,16378.24,Kurunegala,Online
+ORD1234,2023-06-20,CUST159,Arjun,Toys,Ball,7,3455.01,24185.07,Jaffna,Online
+ORD1235,2023-06-21,CUST346,Ramesh,Home Appliances,Fridge,3,505.09,1515.27,Colombo,Cash
+ORD1236,2023-06-22,CUST999,Kavya,Groceries,Rice,5,1201.73,6008.65,Galle,Cash
+ORD1237,2023-06-23,CUST680,Dilani,Home Appliances,Washing Machine,8,2793.66,22349.28,Colombo,Online
+ORD1238,2023-06-23,CUST180,Praveen,Electronics,Headphones,9,4134.09,37206.81,Galle,Online
+ORD1239,2023-06-24,CUST187,Dilani,Electronics,Tablet,9,1170.86,10537.74,Jaffna,Cash
+ORD1240,2023-06-25,CUST849,Kavya,Toys,Doll,5,4386.57,21932.85,Colombo,Card
+ORD1241,2023-06-26,CUST597,Manoj,Groceries,Oil,2,2251.44,4502.88,Colombo,Cash
+ORD1242,2023-06-26,CUST935,Anjali,Clothing,Shoes,6,4319.14,25914.84,Kurunegala,Online
+ORD1243,2023-06-27,CUST170,Arjun,Home Appliances,Mixer,10,782.25,7822.5,Kandy,Cash
+ORD1244,2023-06-28,CUST878,Anjali,Electronics,Smartwatch,6,2708.18,16249.08,Kurunegala,Online
+ORD1245,2023-06-29,CUST645,Ramesh,Clothing,Dress,5,1517.73,7588.65,Galle,Online
+ORD1246,2023-06-29,CUST884,Manoj,Toys,Car Toy,3,4817.58,14452.74,Jaffna,Cash
+ORD1247,2023-06-30,CUST228,Arjun,Groceries,Milk,3,1323.42,3970.26,Matara,Card
+ORD1248,2023-07-01,CUST231,Sutharsiga,Clothing,Jacket,8,796.64,6373.12,Matara,Card
+ORD1249,2023-07-01,CUST775,Anjali,Toys,Ball,7,2314.76,16203.32,Matara,Cash
+ORD1250,2023-07-02,CUST586,Dilani,Home Appliances,Washing Machine,5,3504.05,17520.25,Galle,Card
+ORD1251,2023-07-03,CUST662,Tharindu,Home Appliances,Microwave,10,112.12,1121.2,Matara,Cash
+ORD1252,2023-07-04,CUST269,Ramesh,Toys,Ball,6,4265.52,25593.12,Kurunegala,Card
+ORD1253,2023-07-04,CUST371,Ramesh,Clothing,Jacket,4,2524.1,10096.4,Galle,Card
+ORD1254,2023-07-05,CUST640,Arjun,Groceries,Eggs,10,739.91,7399.1,Jaffna,Card
+ORD1255,2023-07-06,CUST993,Sutharsiga,Toys,Car Toy,1,587.92,587.92,Jaffna,Cash
+ORD1256,2023-07-07,CUST721,Praveen,Electronics,Laptop,8,2336.94,18695.52,Jaffna,Cash
+ORD1257,2023-07-07,CUST533,Anjali,Toys,Doll,5,878.99,4394.95,Galle,Cash
+ORD1258,2023-07-08,CUST316,Nimal,Toys,Puzzle,5,503.86,2519.3,Matara,Online
+ORD1259,2023-07-09,CUST652,Praveen,Clothing,Shirt,7,3165.46,22158.22,Matara,Online
+ORD1260,2023-07-09,CUST873,Ramesh,Clothing,Jacket,2,3548.12,7096.24,Colombo,Cash
+ORD1261,2023-07-10,CUST847,Ramesh,Home Appliances,Fan,3,3009.03,9027.09,Kurunegala,Online
+ORD1262,2023-07-11,CUST806,Kavya,Home Appliances,Fan,1,3508.43,3508.43,Colombo,Card
+ORD1263,2023-07-12,CUST305,Arjun,Toys,Doll,8,447.06,3576.48,Jaffna,Cash
+ORD1264,2023-07-12,CUST830,Tharindu,Toys,Car Toy,2,1635.42,3270.84,Galle,Cash
+ORD1265,2023-07-13,CUST419,Sutharsiga,Home Appliances,Mixer,3,435.22,1305.66,Kurunegala,Cash
+ORD1266,2023-07-14,CUST508,Nimal,Books,Textbook,8,1820.82,14566.56,Kandy,Online
+ORD1267,2023-07-15,CUST787,Praveen,Toys,Doll,7,3118.77,21831.39,Jaffna,Cash
+ORD1268,2023-07-15,CUST765,Anjali,Electronics,Mobile,3,3786.98,11360.94,Kurunegala,Online
+ORD1269,2023-07-16,CUST482,Arjun,Home Appliances,Microwave,7,1641.07,11487.49,Kandy,Cash
+ORD1270,2023-07-17,CUST548,Anjali,Groceries,Rice,4,2811.64,11246.56,Kurunegala,Online
+ORD1271,2023-07-18,CUST629,Manoj,Books,Comics,1,4254.67,4254.67,Matara,Card
+ORD1272,2023-07-18,CUST562,Kavya,Clothing,Shoes,10,2596.66,25966.6,Matara,Card
+ORD1273,2023-07-19,CUST223,Sutharsiga,Groceries,Rice,4,2524.95,10099.8,Colombo,Cash
+ORD1274,2023-07-20,CUST353,Kavya,Home Appliances,Washing Machine,2,2688.6,5377.2,Colombo,Card
+ORD1275,2023-07-20,CUST330,Ramesh,Groceries,Milk,7,4317.99,30225.93,Kurunegala,Card
+ORD1276,2023-07-21,CUST165,Kavya,Groceries,Eggs,3,3837.36,11512.08,Colombo,Cash
+ORD1277,2023-07-22,CUST446,Nimal,Books,Novel,1,1384.71,1384.71,Colombo,Cash
+ORD1278,2023-07-23,CUST121,Ramesh,Home Appliances,Washing Machine,5,3180.0,15900.0,Kurunegala,Card
+ORD1279,2023-07-23,CUST702,Praveen,Home Appliances,Fridge,2,3238.63,6477.26,Kurunegala,Online
+ORD1280,2023-07-24,CUST667,Anjali,Clothing,Dress,2,1618.54,3237.08,Kurunegala,Cash
+ORD1281,2023-07-25,CUST335,Praveen,Clothing,Shoes,6,2014.58,12087.48,Matara,Online
+ORD1282,2023-07-26,CUST702,Manoj,Toys,Car Toy,5,3523.51,17617.55,Matara,Cash
+ORD1283,2023-07-26,CUST325,Ramesh,Electronics,Laptop,2,4630.68,9261.36,Colombo,Card
+ORD1284,2023-07-27,CUST107,Ramesh,Books,Notebook,1,1615.52,1615.52,Matara,Online
+ORD1285,2023-07-28,CUST172,Sutharsiga,Toys,Doll,2,162.06,324.12,Kandy,Online
+ORD1286,2023-07-28,CUST824,Ramesh,Electronics,Laptop,8,4769.78,38158.24,Kurunegala,Online
+ORD1287,2023-07-29,CUST746,Anjali,Toys,Puzzle,3,1922.16,5766.48,Matara,Card
+ORD1288,2023-07-30,CUST160,Nimal,Toys,Car Toy,1,1741.55,1741.55,Jaffna,Card
+ORD1289,2023-07-31,CUST334,Manoj,Books,Novel,5,3590.38,17951.9,Kurunegala,Online
+ORD1290,2023-07-31,CUST169,Sutharsiga,Electronics,Tablet,8,2602.83,20822.64,Colombo,Card
+ORD1291,2023-08-01,CUST132,Tharindu,Books,Textbook,6,870.82,5224.92,Colombo,Online
+ORD1292,2023-08-02,CUST980,Anjali,Toys,Car Toy,4,3729.82,14919.28,Colombo,Cash
+ORD1293,2023-08-03,CUST438,Nimal,Electronics,Laptop,1,2411.65,2411.65,Jaffna,Cash
+ORD1294,2023-08-03,CUST172,Kavya,Clothing,Shirt,9,4035.27,36317.43,Matara,Online
+ORD1295,2023-08-04,CUST626,Praveen,Toys,Ball,4,1676.83,6707.32,Jaffna,Online
+ORD1296,2023-08-05,CUST343,Manoj,Groceries,Oil,2,2900.53,5801.06,Colombo,Online
+ORD1297,2023-08-06,CUST385,Dilani,Toys,Car Toy,3,1193.61,3580.83,Kurunegala,Cash
+ORD1298,2023-08-06,CUST785,Anjali,Home Appliances,Fan,8,4343.56,34748.48,Galle,Card
+ORD1299,2023-08-07,CUST597,Praveen,Electronics,Smartwatch,8,139.05,1112.4,Kandy,Card
+ORD1300,2023-08-08,CUST319,Arjun,Books,Comics,10,1288.66,12886.6,Galle,Online
+ORD1301,2023-08-08,CUST652,Praveen,Home Appliances,Mixer,9,3826.36,34437.24,Kandy,Cash
+ORD1302,2023-08-09,CUST235,Praveen,Electronics,Tablet,1,1241.69,1241.69,Galle,Online
+ORD1303,2023-08-10,CUST840,Tharindu,Toys,Car Toy,6,107.16,642.96,Matara,Card
+ORD1304,2023-08-11,CUST684,Tharindu,Toys,Puzzle,2,1105.45,2210.9,Kandy,Card
+ORD1305,2023-08-11,CUST690,Ramesh,Home Appliances,Fan,3,3587.1,10761.3,Colombo,Cash
+ORD1306,2023-08-12,CUST584,Nimal,Clothing,Shoes,7,3534.15,24739.05,Galle,Card
+ORD1307,2023-08-13,CUST348,Ramesh,Toys,Car Toy,10,568.33,5683.3,Kandy,Online
+ORD1308,2023-08-14,CUST903,Anjali,Home Appliances,Fan,10,2882.32,28823.2,Jaffna,Online
+ORD1309,2023-08-14,CUST584,Ramesh,Clothing,Jeans,5,1378.86,6894.3,Galle,Card
+ORD1310,2023-08-15,CUST926,Dilani,Toys,Puzzle,6,2318.51,13911.06,Kandy,Cash
+ORD1311,2023-08-16,CUST516,Dilani,Clothing,Jeans,10,633.97,6339.7,Colombo,Cash
+ORD1312,2023-08-16,CUST294,Anjali,Home Appliances,Fridge,6,2091.91,12551.46,Kurunegala,Card
+ORD1313,2023-08-17,CUST196,Anjali,Clothing,Jacket,5,2370.4,11852.0,Colombo,Cash
+ORD1314,2023-08-18,CUST199,Manoj,Clothing,Dress,10,297.62,2976.2,Galle,Cash
+ORD1315,2023-08-19,CUST774,Ramesh,Electronics,Laptop,6,2041.6,12249.6,Colombo,Online
+ORD1316,2023-08-19,CUST541,Dilani,Groceries,Oil,3,252.3,756.9,Jaffna,Card
+ORD1317,2023-08-20,CUST462,Sutharsiga,Books,Notebook,4,564.15,2256.6,Colombo,Cash
+ORD1318,2023-08-21,CUST533,Sutharsiga,Electronics,Mobile,1,4168.82,4168.82,Kandy,Cash
+ORD1319,2023-08-22,CUST520,Tharindu,Clothing,Jacket,6,3462.8,20776.8,Matara,Cash
+ORD1320,2023-08-22,CUST578,Manoj,Books,Notebook,5,4595.4,22977.0,Colombo,Cash
+ORD1321,2023-08-23,CUST984,Sutharsiga,Electronics,Laptop,8,4065.56,32524.48,Colombo,Card
+ORD1322,2023-08-24,CUST846,Manoj,Electronics,Mobile,8,348.12,2784.96,Kurunegala,Card
+ORD1323,2023-08-25,CUST155,Arjun,Toys,Ball,8,244.46,1955.68,Matara,Card
+ORD1324,2023-08-25,CUST789,Dilani,Clothing,Dress,4,4550.69,18202.76,Galle,Card
+ORD1325,2023-08-26,CUST769,Ramesh,Home Appliances,Mixer,1,3109.12,3109.12,Kurunegala,Cash
+ORD1326,2023-08-27,CUST761,Manoj,Toys,Puzzle,8,2118.76,16950.08,Kurunegala,Card
+ORD1327,2023-08-27,CUST200,Manoj,Electronics,Mobile,5,1976.77,9883.85,Jaffna,Cash
+ORD1328,2023-08-28,CUST162,Nimal,Toys,Blocks,4,3190.7,12762.8,Kurunegala,Cash
+ORD1329,2023-08-29,CUST512,Ramesh,Home Appliances,Microwave,8,2768.14,22145.12,Jaffna,Card
+ORD1330,2023-08-30,CUST845,Arjun,Books,Notebook,6,2003.07,12018.42,Kandy,Cash
+ORD1331,2023-08-30,CUST447,Nimal,Groceries,Eggs,4,243.59,974.36,Galle,Cash
+ORD1332,2023-08-31,CUST919,Anjali,Home Appliances,Washing Machine,6,3857.53,23145.18,Kandy,Cash
+ORD1333,2023-09-01,CUST982,Tharindu,Electronics,Laptop,4,1405.98,5623.92,Matara,Cash
+ORD1334,2023-09-02,CUST211,Dilani,Clothing,Shoes,7,1838.54,12869.78,Kandy,Cash
+ORD1335,2023-09-02,CUST354,Kavya,Clothing,Shoes,6,4050.43,24302.58,Matara,Card
+ORD1336,2023-09-03,CUST296,Ramesh,Books,Novel,6,4743.04,28458.24,Kurunegala,Cash
+ORD1337,2023-09-04,CUST294,Kavya,Books,Textbook,8,2756.41,22051.28,Kandy,Card
+ORD1338,2023-09-04,CUST649,Anjali,Electronics,Mobile,1,1239.85,1239.85,Kandy,Cash
+ORD1339,2023-09-05,CUST559,Ramesh,Books,Magazine,1,1725.5,1725.5,Kurunegala,Cash
+ORD1340,2023-09-06,CUST243,Arjun,Clothing,Dress,3,4602.03,13806.09,Galle,Cash
+ORD1341,2023-09-07,CUST532,Nimal,Electronics,Laptop,10,3553.01,35530.1,Kandy,Cash
+ORD1342,2023-09-07,CUST287,Manoj,Books,Comics,2,1930.59,3861.18,Matara,Card
+ORD1343,2023-09-08,CUST385,Nimal,Books,Novel,6,1578.65,9471.9,Kandy,Cash
+ORD1344,2023-09-09,CUST573,Kavya,Toys,Ball,8,3280.98,26247.84,Kandy,Online
+ORD1345,2023-09-10,CUST355,Ramesh,Books,Notebook,6,1193.86,7163.16,Kurunegala,Cash
+ORD1346,2023-09-10,CUST995,Praveen,Home Appliances,Microwave,5,724.01,3620.05,Matara,Cash
+ORD1347,2023-09-11,CUST177,Dilani,Toys,Blocks,7,4268.71,29880.97,Kurunegala,Cash
+ORD1348,2023-09-12,CUST553,Tharindu,Clothing,Shoes,6,4613.09,27678.54,Kurunegala,Cash
+ORD1349,2023-09-13,CUST927,Manoj,Toys,Blocks,2,4689.77,9379.54,Kandy,Card
+ORD1350,2023-09-13,CUST982,Kavya,Toys,Car Toy,4,1799.37,7197.48,Galle,Cash
+ORD1351,2023-09-14,CUST976,Dilani,Toys,Car Toy,6,2288.49,13730.94,Galle,Cash
+ORD1352,2023-09-15,CUST663,Anjali,Clothing,Shirt,6,1357.62,8145.72,Colombo,Online
+ORD1353,2023-09-15,CUST200,Manoj,Electronics,Mobile,7,2247.28,15730.96,Jaffna,Cash
+ORD1354,2023-09-16,CUST151,Dilani,Home Appliances,Fridge,7,1821.03,12747.21,Jaffna,Cash
+ORD1355,2023-09-17,CUST767,Ramesh,Home Appliances,Washing Machine,4,897.02,3588.08,Colombo,Cash
+ORD1356,2023-09-18,CUST653,Anjali,Groceries,Rice,6,1379.53,8277.18,Colombo,Cash
+ORD1357,2023-09-18,CUST956,Arjun,Groceries,Milk,7,888.43,6219.01,Colombo,Online
+ORD1358,2023-09-19,CUST115,Tharindu,Electronics,Headphones,10,4927.85,49278.5,Jaffna,Online
+ORD1359,2023-09-20,CUST195,Kavya,Electronics,Tablet,3,3075.86,9227.58,Jaffna,Cash
+ORD1360,2023-09-21,CUST871,Sutharsiga,Electronics,Mobile,6,1107.2,6643.2,Kandy,Card
+ORD1361,2023-09-21,CUST969,Praveen,Toys,Blocks,9,1399.8,12598.2,Galle,Card
+ORD1362,2023-09-22,CUST342,Sutharsiga,Clothing,Shirt,1,2025.22,2025.22,Kurunegala,Card
+ORD1363,2023-09-23,CUST270,Kavya,Clothing,Shirt,6,118.7,712.2,Colombo,Card
+ORD1364,2023-09-23,CUST516,Manoj,Toys,Blocks,8,1078.41,8627.28,Colombo,Cash
+ORD1365,2023-09-24,CUST597,Kavya,Clothing,Dress,2,2420.5,4841.0,Colombo,Card
+ORD1366,2023-09-25,CUST592,Kavya,Home Appliances,Fridge,8,4484.9,35879.2,Galle,Cash
+ORD1367,2023-09-26,CUST318,Ramesh,Toys,Blocks,7,1005.92,7041.44,Jaffna,Card
+ORD1368,2023-09-26,CUST985,Nimal,Clothing,Jacket,1,1390.15,1390.15,Jaffna,Card
+ORD1369,2023-09-27,CUST510,Praveen,Clothing,Dress,10,402.03,4020.3,Matara,Online
+ORD1370,2023-09-28,CUST160,Arjun,Electronics,Mobile,6,4060.08,24360.48,Jaffna,Online
+ORD1371,2023-09-29,CUST268,Arjun,Clothing,Shoes,1,4219.91,4219.91,Kurunegala,Card
+ORD1372,2023-09-29,CUST488,Dilani,Books,Magazine,10,4420.1,44201.0,Jaffna,Card
+ORD1373,2023-09-30,CUST102,Arjun,Electronics,Tablet,1,2560.3,2560.3,Kurunegala,Online
+ORD1374,2023-10-01,CUST499,Praveen,Toys,Blocks,3,689.38,2068.14,Jaffna,Cash
+ORD1375,2023-10-02,CUST371,Dilani,Clothing,Jeans,4,718.31,2873.24,Jaffna,Cash
+ORD1376,2023-10-02,CUST902,Dilani,Toys,Ball,4,4986.62,19946.48,Matara,Cash
+ORD1377,2023-10-03,CUST903,Manoj,Books,Comics,6,4562.94,27377.64,Colombo,Cash
+ORD1378,2023-10-04,CUST565,Nimal,Home Appliances,Washing Machine,7,2805.07,19635.49,Galle,Online
+ORD1379,2023-10-04,CUST392,Sutharsiga,Home Appliances,Fan,10,2979.12,29791.2,Jaffna,Cash
+ORD1380,2023-10-05,CUST533,Anjali,Home Appliances,Mixer,3,2876.31,8628.93,Kurunegala,Cash
+ORD1381,2023-10-06,CUST813,Manoj,Electronics,Smartwatch,2,3950.15,7900.3,Kurunegala,Card
+ORD1382,2023-10-07,CUST848,Tharindu,Home Appliances,Microwave,7,3308.46,23159.22,Kurunegala,Online
+ORD1383,2023-10-07,CUST902,Nimal,Home Appliances,Fan,3,1449.53,4348.59,Kandy,Online
+ORD1384,2023-10-08,CUST669,Nimal,Books,Magazine,1,2039.38,2039.38,Galle,Online
+ORD1385,2023-10-09,CUST777,Nimal,Clothing,Shirt,8,4612.09,36896.72,Galle,Cash
+ORD1386,2023-10-10,CUST835,Kavya,Groceries,Oil,5,1473.7,7368.5,Jaffna,Online
+ORD1387,2023-10-10,CUST598,Tharindu,Toys,Car Toy,4,758.49,3033.96,Matara,Card
+ORD1388,2023-10-11,CUST258,Manoj,Groceries,Oil,7,3064.4,21450.8,Colombo,Cash
+ORD1389,2023-10-12,CUST294,Tharindu,Home Appliances,Mixer,7,3730.63,26114.41,Kurunegala,Card
+ORD1390,2023-10-12,CUST403,Sutharsiga,Electronics,Smartwatch,3,421.52,1264.56,Matara,Online
+ORD1391,2023-10-13,CUST322,Ramesh,Home Appliances,Mixer,9,4408.73,39678.57,Colombo,Cash
+ORD1392,2023-10-14,CUST159,Tharindu,Clothing,Jeans,1,1322.5,1322.5,Jaffna,Cash
+ORD1393,2023-10-15,CUST693,Nimal,Groceries,Milk,5,1904.92,9524.6,Jaffna,Online
+ORD1394,2023-10-15,CUST853,Sutharsiga,Home Appliances,Fan,1,1285.5,1285.5,Jaffna,Online
+ORD1395,2023-10-16,CUST655,Ramesh,Home Appliances,Mixer,8,2975.71,23805.68,Galle,Card
+ORD1396,2023-10-17,CUST162,Praveen,Clothing,Dress,2,1496.84,2993.68,Jaffna,Cash
+ORD1397,2023-10-18,CUST865,Ramesh,Clothing,Shoes,4,4299.84,17199.36,Matara,Cash
+ORD1398,2023-10-18,CUST421,Praveen,Toys,Doll,5,3292.78,16463.9,Kurunegala,Cash
+ORD1399,2023-10-19,CUST158,Arjun,Toys,Car Toy,8,4566.43,36531.44,Matara,Cash
+ORD1400,2023-10-20,CUST151,Ramesh,Books,Novel,4,1336.71,5346.84,Galle,Online
+ORD1401,2023-10-21,CUST698,Praveen,Toys,Puzzle,7,4487.87,31415.09,Galle,Card
+ORD1402,2023-10-21,CUST588,Anjali,Groceries,Milk,8,1580.51,12644.08,Kurunegala,Online
+ORD1403,2023-10-22,CUST614,Nimal,Home Appliances,Washing Machine,2,136.0,272.0,Matara,Card
+ORD1404,2023-10-23,CUST973,Kavya,Books,Notebook,10,1485.12,14851.2,Matara,Cash
+ORD1405,2023-10-23,CUST643,Ramesh,Home Appliances,Fan,6,4942.97,29657.82,Matara,Card
+ORD1406,2023-10-24,CUST261,Dilani,Groceries,Oil,5,1022.96,5114.8,Kurunegala,Cash
+ORD1407,2023-10-25,CUST158,Tharindu,Electronics,Smartwatch,7,3336.6,23356.2,Matara,Cash
+ORD1408,2023-10-26,CUST620,Praveen,Toys,Car Toy,8,4987.6,39900.8,Galle,Card
+ORD1409,2023-10-26,CUST182,Manoj,Home Appliances,Fridge,1,2956.82,2956.82,Kurunegala,Cash
+ORD1410,2023-10-27,CUST971,Praveen,Groceries,Milk,9,3227.74,29049.66,Jaffna,Online
+ORD1411,2023-10-28,CUST290,Ramesh,Groceries,Eggs,5,4242.55,21212.75,Matara,Online
+ORD1412,2023-10-29,CUST170,Praveen,Clothing,Dress,2,2406.83,4813.66,Matara,Card
+ORD1413,2023-10-29,CUST709,Sutharsiga,Toys,Blocks,3,4739.92,14219.76,Galle,Online
+ORD1414,2023-10-30,CUST169,Manoj,Electronics,Laptop,6,1194.31,7165.86,Galle,Card
+ORD1415,2023-10-31,CUST791,Ramesh,Groceries,Oil,5,2969.3,14846.5,Jaffna,Cash
+ORD1416,2023-10-31,CUST982,Kavya,Home Appliances,Fan,10,2943.53,29435.3,Kurunegala,Cash
+ORD1417,2023-11-01,CUST340,Sutharsiga,Home Appliances,Mixer,9,687.1,6183.9,Matara,Card
+ORD1418,2023-11-02,CUST513,Manoj,Books,Comics,7,364.9,2554.3,Kandy,Cash
+ORD1419,2023-11-03,CUST222,Tharindu,Clothing,Dress,7,4937.24,34560.68,Jaffna,Cash
+ORD1420,2023-11-03,CUST683,Dilani,Groceries,Milk,2,2489.15,4978.3,Matara,Cash
+ORD1421,2023-11-04,CUST352,Tharindu,Groceries,Rice,1,2315.06,2315.06,Kandy,Cash
+ORD1422,2023-11-05,CUST692,Praveen,Books,Textbook,8,3947.53,31580.24,Colombo,Cash
+ORD1423,2023-11-06,CUST708,Praveen,Books,Magazine,7,2076.63,14536.41,Jaffna,Card
+ORD1424,2023-11-06,CUST140,Arjun,Electronics,Mobile,9,1077.13,9694.17,Galle,Cash
+ORD1425,2023-11-07,CUST734,Manoj,Groceries,Eggs,4,187.79,751.16,Colombo,Online
+ORD1426,2023-11-08,CUST183,Praveen,Toys,Doll,4,3498.27,13993.08,Galle,Card
+ORD1427,2023-11-09,CUST529,Arjun,Clothing,Shirt,7,2566.35,17964.45,Galle,Cash
+ORD1428,2023-11-09,CUST773,Tharindu,Electronics,Mobile,5,4747.47,23737.35,Jaffna,Online
+ORD1429,2023-11-10,CUST697,Arjun,Books,Notebook,9,1755.39,15798.51,Matara,Cash
+ORD1430,2023-11-11,CUST678,Tharindu,Groceries,Bread,6,3775.57,22653.42,Kandy,Card
+ORD1431,2023-11-11,CUST635,Ramesh,Electronics,Laptop,4,3663.13,14652.52,Kandy,Cash
+ORD1432,2023-11-12,CUST423,Praveen,Toys,Car Toy,10,2572.7,25727.0,Colombo,Card
+ORD1433,2023-11-13,CUST367,Sutharsiga,Toys,Car Toy,7,4395.07,30765.49,Galle,Online
+ORD1434,2023-11-14,CUST309,Tharindu,Books,Novel,10,4973.93,49739.3,Matara,Cash
+ORD1435,2023-11-14,CUST785,Dilani,Toys,Car Toy,1,3479.77,3479.77,Jaffna,Card
+ORD1436,2023-11-15,CUST833,Sutharsiga,Home Appliances,Fan,9,1338.42,12045.78,Matara,Cash
+ORD1437,2023-11-16,CUST421,Sutharsiga,Clothing,Shirt,5,2162.27,10811.35,Colombo,Online
+ORD1438,2023-11-17,CUST344,Tharindu,Books,Comics,10,3067.61,30676.1,Kandy,Card
+ORD1439,2023-11-17,CUST371,Praveen,Electronics,Smartwatch,10,676.9,6769.0,Colombo,Cash
+ORD1440,2023-11-18,CUST505,Nimal,Home Appliances,Mixer,10,1078.77,10787.7,Galle,Online
+ORD1441,2023-11-19,CUST234,Kavya,Clothing,Dress,7,1547.22,10830.54,Colombo,Online
+ORD1442,2023-11-19,CUST787,Arjun,Home Appliances,Mixer,8,1719.96,13759.68,Colombo,Cash
+ORD1443,2023-11-20,CUST760,Praveen,Toys,Car Toy,2,4192.64,8385.28,Matara,Card
+ORD1444,2023-11-21,CUST407,Ramesh,Clothing,Shirt,9,467.74,4209.66,Matara,Cash
+ORD1445,2023-11-22,CUST568,Arjun,Groceries,Milk,8,4944.46,39555.68,Galle,Card
+ORD1446,2023-11-22,CUST423,Tharindu,Home Appliances,Fan,2,4084.57,8169.14,Colombo,Card
+ORD1447,2023-11-23,CUST869,Dilani,Groceries,Oil,7,3718.85,26031.95,Colombo,Cash
+ORD1448,2023-11-24,CUST174,Nimal,Electronics,Laptop,3,1710.44,5131.32,Jaffna,Online
+ORD1449,2023-11-25,CUST109,Kavya,Groceries,Rice,6,4093.33,24559.98,Kandy,Cash
+ORD1450,2023-11-25,CUST569,Praveen,Home Appliances,Fridge,8,1431.98,11455.84,Jaffna,Online
+ORD1451,2023-11-26,CUST736,Dilani,Home Appliances,Fridge,3,653.98,1961.94,Matara,Online
+ORD1452,2023-11-27,CUST676,Manoj,Electronics,Laptop,2,2138.54,4277.08,Kurunegala,Card
+ORD1453,2023-11-28,CUST202,Nimal,Books,Magazine,3,3095.48,9286.44,Galle,Online
+ORD1454,2023-11-28,CUST175,Sutharsiga,Electronics,Laptop,8,4609.95,36879.6,Colombo,Card
+ORD1455,2023-11-29,CUST650,Nimal,Home Appliances,Fan,2,1381.9,2763.8,Galle,Cash
+ORD1456,2023-11-30,CUST318,Anjali,Toys,Blocks,10,3646.49,36464.9,Kandy,Online
+ORD1457,2023-11-30,CUST618,Dilani,Groceries,Eggs,9,3472.38,31251.42,Kurunegala,Cash
+ORD1458,2023-12-01,CUST371,Anjali,Home Appliances,Mixer,8,1794.17,14353.36,Matara,Online
+ORD1459,2023-12-02,CUST235,Anjali,Home Appliances,Mixer,9,4471.1,40239.9,Kurunegala,Cash
+ORD1460,2023-12-03,CUST457,Praveen,Electronics,Laptop,9,4259.34,38334.06,Jaffna,Cash
+ORD1461,2023-12-03,CUST170,Nimal,Electronics,Tablet,6,1280.37,7682.22,Galle,Cash
+ORD1462,2023-12-04,CUST350,Praveen,Books,Textbook,9,3252.25,29270.25,Jaffna,Cash
+ORD1463,2023-12-05,CUST478,Ramesh,Electronics,Tablet,8,4026.18,32209.44,Jaffna,Cash
+ORD1464,2023-12-06,CUST391,Praveen,Home Appliances,Fridge,6,681.66,4089.96,Jaffna,Online
+ORD1465,2023-12-06,CUST261,Dilani,Toys,Car Toy,2,2076.85,4153.7,Colombo,Online
+ORD1466,2023-12-07,CUST548,Kavya,Books,Novel,2,3979.74,7959.48,Kurunegala,Online
+ORD1467,2023-12-08,CUST953,Ramesh,Groceries,Eggs,9,1113.57,10022.13,Matara,Card
+ORD1468,2023-12-08,CUST656,Kavya,Groceries,Oil,1,4101.28,4101.28,Jaffna,Card
+ORD1469,2023-12-09,CUST820,Nimal,Books,Notebook,10,2418.36,24183.6,Matara,Card
+ORD1470,2023-12-10,CUST409,Sutharsiga,Toys,Ball,2,577.44,1154.88,Matara,Cash
+ORD1471,2023-12-11,CUST726,Manoj,Electronics,Headphones,6,4166.43,24998.58,Galle,Online
+ORD1472,2023-12-11,CUST926,Anjali,Books,Comics,2,324.31,648.62,Kandy,Card
+ORD1473,2023-12-12,CUST769,Dilani,Clothing,Jacket,2,1346.02,2692.04,Kandy,Cash
+ORD1474,2023-12-13,CUST641,Kavya,Electronics,Tablet,4,2339.53,9358.12,Kandy,Online
+ORD1475,2023-12-14,CUST108,Manoj,Groceries,Rice,7,327.85,2294.95,Matara,Online
+ORD1476,2023-12-14,CUST783,Arjun,Books,Novel,8,2341.2,18729.6,Kurunegala,Online
+ORD1477,2023-12-15,CUST936,Praveen,Clothing,Jacket,1,2698.79,2698.79,Colombo,Online
+ORD1478,2023-12-16,CUST667,Anjali,Home Appliances,Washing Machine,8,4629.42,37035.36,Kandy,Online
+ORD1479,2023-12-17,CUST406,Kavya,Books,Textbook,3,607.41,1822.23,Matara,Online
+ORD1480,2023-12-17,CUST779,Ramesh,Books,Comics,9,4418.81,39769.29,Jaffna,Online
+ORD1481,2023-12-18,CUST206,Dilani,Toys,Doll,5,2049.56,10247.8,Galle,Card
+ORD1482,2023-12-19,CUST999,Praveen,Home Appliances,Mixer,3,2122.45,6367.35,Matara,Online
+ORD1483,2023-12-19,CUST237,Tharindu,Books,Comics,9,4317.47,38857.23,Matara,Online
+ORD1484,2023-12-20,CUST370,Manoj,Books,Textbook,4,1127.59,4510.36,Matara,Card
+ORD1485,2023-12-21,CUST218,Dilani,Toys,Puzzle,3,4908.54,14725.62,Matara,Cash
+ORD1486,2023-12-22,CUST209,Kavya,Books,Notebook,6,3580.73,21484.38,Galle,Online
+ORD1487,2023-12-22,CUST860,Sutharsiga,Home Appliances,Washing Machine,10,4719.1,47191.0,Matara,Card
+ORD1488,2023-12-23,CUST666,Ramesh,Toys,Blocks,5,4399.64,21998.2,Jaffna,Cash
+ORD1489,2023-12-24,CUST259,Arjun,Books,Novel,1,1966.26,1966.26,Colombo,Online
+ORD1490,2023-12-25,CUST378,Tharindu,Electronics,Laptop,5,3775.91,18879.55,Kandy,Card
+ORD1491,2023-12-25,CUST388,Anjali,Toys,Puzzle,3,4212.97,12638.91,Matara,Card
+ORD1492,2023-12-26,CUST719,Dilani,Clothing,Shoes,1,1857.54,1857.54,Jaffna,Cash
+ORD1493,2023-12-27,CUST315,Tharindu,Books,Notebook,4,3737.82,14951.28,Kurunegala,Card
+ORD1494,2023-12-27,CUST834,Sutharsiga,Clothing,Shoes,5,3495.39,17476.95,Colombo,Card
+ORD1495,2023-12-28,CUST451,Kavya,Home Appliances,Fridge,6,4832.58,28995.48,Colombo,Cash
+ORD1496,2023-12-29,CUST308,Ramesh,Toys,Puzzle,4,3140.75,12563.0,Jaffna,Cash
+ORD1497,2023-12-30,CUST803,Praveen,Toys,Puzzle,10,2778.41,27784.1,Kurunegala,Cash
+ORD1498,2023-12-30,CUST749,Manoj,Toys,Doll,5,2299.19,11495.95,Matara,Cash
+ORD1499,2023-12-31,CUST973,Kavya,Clothing,Jeans,9,684.83,6163.47,Colombo,Card
+ORD1500,2024-01-01,CUST370,Nimal,Groceries,Eggs,5,737.33,3686.65,Kurunegala,Card
+ORD1501,2024-01-02,CUST617,Arjun,Electronics,Headphones,8,3577.48,28619.84,Kandy,Cash
+ORD1502,2024-01-02,CUST600,Arjun,Clothing,Dress,10,349.19,3491.9,Matara,Online
+ORD1503,2024-01-03,CUST357,Praveen,Toys,Puzzle,8,3970.55,31764.4,Kurunegala,Card
+ORD1504,2024-01-04,CUST966,Ramesh,Electronics,Headphones,9,1177.81,10600.29,Kandy,Online
+ORD1505,2024-01-05,CUST152,Kavya,Electronics,Smartwatch,3,2138.06,6414.18,Kurunegala,Card
+ORD1506,2024-01-05,CUST194,Kavya,Electronics,Headphones,4,4428.64,17714.56,Matara,Card
+ORD1507,2024-01-06,CUST749,Sutharsiga,Groceries,Oil,5,1170.38,5851.9,Kurunegala,Online
+ORD1508,2024-01-07,CUST533,Anjali,Home Appliances,Washing Machine,1,662.14,662.14,Galle,Card
+ORD1509,2024-01-07,CUST949,Nimal,Clothing,Shoes,10,1294.75,12947.5,Colombo,Online
+ORD1510,2024-01-08,CUST383,Manoj,Groceries,Bread,2,1990.79,3981.58,Kurunegala,Online
+ORD1511,2024-01-09,CUST145,Ramesh,Groceries,Rice,9,4128.33,37154.97,Galle,Online
+ORD1512,2024-01-10,CUST103,Dilani,Books,Magazine,8,314.87,2518.96,Matara,Cash
+ORD1513,2024-01-10,CUST441,Anjali,Groceries,Eggs,2,4746.24,9492.48,Kandy,Online
+ORD1514,2024-01-11,CUST889,Manoj,Books,Novel,2,1132.83,2265.66,Matara,Cash
+ORD1515,2024-01-12,CUST233,Tharindu,Toys,Ball,2,1107.34,2214.68,Matara,Online
+ORD1516,2024-01-13,CUST752,Nimal,Home Appliances,Fan,3,216.39,649.17,Matara,Card
+ORD1517,2024-01-13,CUST368,Manoj,Electronics,Mobile,2,365.91,731.82,Galle,Online
+ORD1518,2024-01-14,CUST265,Kavya,Electronics,Smartwatch,4,4563.83,18255.32,Jaffna,Card
+ORD1519,2024-01-15,CUST859,Ramesh,Home Appliances,Fridge,7,1650.38,11552.66,Jaffna,Online
+ORD1520,2024-01-15,CUST552,Tharindu,Electronics,Smartwatch,1,3242.97,3242.97,Kurunegala,Cash
+ORD1521,2024-01-16,CUST664,Manoj,Toys,Blocks,1,3534.32,3534.32,Colombo,Card
+ORD1522,2024-01-17,CUST822,Praveen,Books,Novel,5,3955.77,19778.85,Galle,Online
+ORD1523,2024-01-18,CUST537,Arjun,Electronics,Headphones,8,1968.93,15751.44,Matara,Cash
+ORD1524,2024-01-18,CUST674,Dilani,Home Appliances,Mixer,9,1177.34,10596.06,Matara,Card
+ORD1525,2024-01-19,CUST109,Sutharsiga,Books,Comics,3,1560.48,4681.44,Matara,Online
+ORD1526,2024-01-20,CUST214,Ramesh,Groceries,Rice,9,4386.36,39477.24,Kandy,Cash
+ORD1527,2024-01-21,CUST177,Ramesh,Electronics,Mobile,10,3023.61,30236.1,Kurunegala,Online
+ORD1528,2024-01-21,CUST807,Sutharsiga,Electronics,Headphones,4,3766.65,15066.6,Matara,Card
+ORD1529,2024-01-22,CUST252,Dilani,Clothing,Jacket,9,798.03,7182.27,Kandy,Cash
+ORD1530,2024-01-23,CUST658,Kavya,Books,Comics,4,661.65,2646.6,Matara,Online
+ORD1531,2024-01-24,CUST136,Dilani,Electronics,Smartwatch,8,3258.91,26071.28,Colombo,Card
+ORD1532,2024-01-24,CUST954,Anjali,Toys,Car Toy,5,581.19,2905.95,Matara,Online
+ORD1533,2024-01-25,CUST478,Dilani,Home Appliances,Microwave,6,728.25,4369.5,Matara,Cash
+ORD1534,2024-01-26,CUST696,Arjun,Electronics,Headphones,10,442.06,4420.6,Kandy,Card
+ORD1535,2024-01-26,CUST665,Manoj,Home Appliances,Fridge,6,3120.08,18720.48,Galle,Online
+ORD1536,2024-01-27,CUST251,Praveen,Books,Textbook,10,2877.62,28776.2,Galle,Card
+ORD1537,2024-01-28,CUST540,Sutharsiga,Clothing,Shirt,6,1306.26,7837.56,Kandy,Online
+ORD1538,2024-01-29,CUST230,Kavya,Toys,Ball,5,4216.54,21082.7,Kandy,Online
+ORD1539,2024-01-29,CUST142,Ramesh,Toys,Puzzle,8,2367.96,18943.68,Galle,Card
+ORD1540,2024-01-30,CUST415,Kavya,Home Appliances,Washing Machine,2,961.27,1922.54,Kurunegala,Cash
+ORD1541,2024-01-31,CUST473,Sutharsiga,Groceries,Milk,9,1062.52,9562.68,Matara,Online
+ORD1542,2024-02-01,CUST915,Tharindu,Electronics,Mobile,1,4262.98,4262.98,Matara,Cash
+ORD1543,2024-02-01,CUST981,Arjun,Books,Notebook,7,3869.08,27083.56,Kandy,Cash
+ORD1544,2024-02-02,CUST140,Arjun,Books,Comics,9,4480.53,40324.77,Kurunegala,Card
+ORD1545,2024-02-03,CUST466,Dilani,Toys,Doll,6,2023.24,12139.44,Kurunegala,Online
+ORD1546,2024-02-03,CUST315,Sutharsiga,Groceries,Milk,8,2555.5,20444.0,Colombo,Card
+ORD1547,2024-02-04,CUST798,Nimal,Groceries,Eggs,1,3347.12,3347.12,Kurunegala,Online
+ORD1548,2024-02-05,CUST355,Tharindu,Clothing,Shoes,3,2286.48,6859.44,Kandy,Online
+ORD1549,2024-02-06,CUST782,Sutharsiga,Books,Textbook,8,4701.96,37615.68,Colombo,Cash
+ORD1550,2024-02-06,CUST205,Kavya,Home Appliances,Mixer,2,1395.35,2790.7,Kandy,Cash
+ORD1551,2024-02-07,CUST462,Anjali,Toys,Doll,9,4547.86,40930.74,Galle,Card
+ORD1552,2024-02-08,CUST898,Sutharsiga,Home Appliances,Fridge,1,295.53,295.53,Matara,Card
+ORD1553,2024-02-09,CUST673,Tharindu,Electronics,Smartwatch,5,4190.87,20954.35,Galle,Online
+ORD1554,2024-02-09,CUST995,Sutharsiga,Books,Notebook,3,1945.63,5836.89,Jaffna,Card
+ORD1555,2024-02-10,CUST516,Sutharsiga,Books,Novel,9,1332.77,11994.93,Kandy,Online
+ORD1556,2024-02-11,CUST735,Dilani,Home Appliances,Microwave,6,2485.62,14913.72,Jaffna,Online
+ORD1557,2024-02-12,CUST867,Nimal,Electronics,Smartwatch,3,2255.5,6766.5,Kandy,Cash
+ORD1558,2024-02-12,CUST258,Tharindu,Books,Comics,4,836.18,3344.72,Kandy,Card
+ORD1559,2024-02-13,CUST342,Arjun,Books,Novel,4,2131.61,8526.44,Galle,Online
+ORD1560,2024-02-14,CUST985,Praveen,Electronics,Tablet,8,2447.2,19577.6,Kurunegala,Cash
+ORD1561,2024-02-14,CUST266,Nimal,Toys,Ball,1,1293.98,1293.98,Kandy,Online
+ORD1562,2024-02-15,CUST919,Nimal,Books,Textbook,3,3184.75,9554.25,Colombo,Online
+ORD1563,2024-02-16,CUST930,Anjali,Clothing,Shirt,3,1365.47,4096.41,Kandy,Online
+ORD1564,2024-02-17,CUST281,Praveen,Home Appliances,Washing Machine,10,3224.35,32243.5,Matara,Online
+ORD1565,2024-02-17,CUST522,Nimal,Toys,Puzzle,2,1161.31,2322.62,Kurunegala,Card
+ORD1566,2024-02-18,CUST125,Kavya,Home Appliances,Mixer,4,4168.78,16675.12,Kurunegala,Cash
+ORD1567,2024-02-19,CUST283,Arjun,Books,Textbook,10,3332.28,33322.8,Galle,Cash
+ORD1568,2024-02-20,CUST854,Nimal,Toys,Puzzle,8,3023.01,24184.08,Colombo,Cash
+ORD1569,2024-02-20,CUST440,Arjun,Home Appliances,Fridge,3,631.99,1895.97,Kandy,Online
+ORD1570,2024-02-21,CUST901,Dilani,Books,Magazine,3,3067.0,9201.0,Kandy,Card
+ORD1571,2024-02-22,CUST521,Sutharsiga,Books,Notebook,1,4400.99,4400.99,Kurunegala,Online
+ORD1572,2024-02-22,CUST921,Tharindu,Electronics,Mobile,8,3331.02,26648.16,Kurunegala,Online
+ORD1573,2024-02-23,CUST785,Dilani,Electronics,Tablet,9,2161.35,19452.15,Colombo,Online
+ORD1574,2024-02-24,CUST984,Arjun,Books,Magazine,4,4698.27,18793.08,Jaffna,Card
+ORD1575,2024-02-25,CUST852,Nimal,Groceries,Eggs,10,578.81,5788.1,Kandy,Card
+ORD1576,2024-02-25,CUST930,Praveen,Home Appliances,Mixer,2,1488.01,2976.02,Kurunegala,Card
+ORD1577,2024-02-26,CUST354,Arjun,Groceries,Milk,1,3574.83,3574.83,Colombo,Online
+ORD1578,2024-02-27,CUST373,Nimal,Books,Novel,9,135.25,1217.25,Matara,Cash
+ORD1579,2024-02-28,CUST263,Manoj,Toys,Puzzle,7,1875.12,13125.84,Kandy,Card
+ORD1580,2024-02-28,CUST906,Anjali,Toys,Blocks,5,1380.38,6901.9,Kurunegala,Card
+ORD1581,2024-02-29,CUST818,Kavya,Books,Comics,10,1450.25,14502.5,Matara,Card
+ORD1582,2024-03-01,CUST210,Kavya,Clothing,Jacket,9,3940.56,35465.04,Jaffna,Cash
+ORD1583,2024-03-02,CUST491,Ramesh,Groceries,Eggs,9,2470.42,22233.78,Galle,Online
+ORD1584,2024-03-02,CUST993,Ramesh,Groceries,Bread,3,4289.49,12868.47,Matara,Cash
+ORD1585,2024-03-03,CUST139,Dilani,Toys,Doll,8,3937.24,31497.92,Kandy,Cash
+ORD1586,2024-03-04,CUST979,Anjali,Clothing,Shoes,7,3951.8,27662.6,Kurunegala,Online
+ORD1587,2024-03-04,CUST581,Tharindu,Toys,Car Toy,3,2006.61,6019.83,Matara,Cash
+ORD1588,2024-03-05,CUST327,Kavya,Electronics,Laptop,8,4636.72,37093.76,Jaffna,Cash
+ORD1589,2024-03-06,CUST304,Ramesh,Electronics,Headphones,4,1917.09,7668.36,Kurunegala,Cash
+ORD1590,2024-03-07,CUST936,Anjali,Toys,Ball,7,3108.43,21759.01,Kurunegala,Card
+ORD1591,2024-03-07,CUST571,Sutharsiga,Toys,Blocks,1,4734.01,4734.01,Kandy,Online
+ORD1592,2024-03-08,CUST458,Tharindu,Home Appliances,Fridge,1,1088.37,1088.37,Matara,Online
+ORD1593,2024-03-09,CUST412,Arjun,Groceries,Milk,1,3941.4,3941.4,Kurunegala,Online
+ORD1594,2024-03-10,CUST940,Anjali,Toys,Doll,10,930.47,9304.7,Colombo,Card
+ORD1595,2024-03-10,CUST914,Praveen,Clothing,Shirt,3,525.53,1576.59,Galle,Card
+ORD1596,2024-03-11,CUST992,Ramesh,Groceries,Bread,7,2971.79,20802.53,Kurunegala,Cash
+ORD1597,2024-03-12,CUST333,Arjun,Toys,Car Toy,2,2793.0,5586.0,Matara,Online
+ORD1598,2024-03-12,CUST328,Arjun,Books,Comics,6,4820.11,28920.66,Galle,Cash
+ORD1599,2024-03-13,CUST124,Ramesh,Books,Textbook,8,4655.6,37244.8,Kurunegala,Cash
+ORD1600,2024-03-14,CUST775,Manoj,Groceries,Milk,7,2580.57,18063.99,Kurunegala,Cash
+ORD1601,2024-03-15,CUST297,Manoj,Books,Comics,6,4740.38,28442.28,Kurunegala,Card
+ORD1602,2024-03-15,CUST508,Kavya,Books,Notebook,5,3501.54,17507.7,Jaffna,Online
+ORD1603,2024-03-16,CUST436,Ramesh,Home Appliances,Mixer,6,4810.07,28860.42,Jaffna,Online
+ORD1604,2024-03-17,CUST385,Ramesh,Home Appliances,Washing Machine,1,2461.65,2461.65,Galle,Cash
+ORD1605,2024-03-18,CUST985,Kavya,Home Appliances,Mixer,4,4020.79,16083.16,Jaffna,Card
+ORD1606,2024-03-18,CUST171,Kavya,Books,Notebook,1,3534.01,3534.01,Galle,Cash
+ORD1607,2024-03-19,CUST891,Dilani,Groceries,Rice,7,3401.12,23807.84,Galle,Cash
+ORD1608,2024-03-20,CUST385,Tharindu,Books,Textbook,8,1637.98,13103.84,Kandy,Online
+ORD1609,2024-03-21,CUST459,Nimal,Groceries,Milk,4,2545.1,10180.4,Kandy,Cash
+ORD1610,2024-03-21,CUST756,Kavya,Toys,Doll,5,1113.22,5566.1,Kandy,Cash
+ORD1611,2024-03-22,CUST621,Nimal,Books,Comics,3,3916.8,11750.4,Colombo,Cash
+ORD1612,2024-03-23,CUST509,Praveen,Toys,Ball,10,132.46,1324.6,Kurunegala,Cash
+ORD1613,2024-03-23,CUST795,Tharindu,Home Appliances,Microwave,10,1645.54,16455.4,Kurunegala,Card
+ORD1614,2024-03-24,CUST963,Tharindu,Home Appliances,Mixer,9,1473.31,13259.79,Kandy,Online
+ORD1615,2024-03-25,CUST649,Anjali,Clothing,Shirt,9,4016.42,36147.78,Jaffna,Online
+ORD1616,2024-03-26,CUST439,Dilani,Electronics,Smartwatch,6,2029.21,12175.26,Matara,Cash
+ORD1617,2024-03-26,CUST128,Manoj,Home Appliances,Fan,9,2354.35,21189.15,Matara,Cash
+ORD1618,2024-03-27,CUST218,Tharindu,Electronics,Laptop,7,2946.94,20628.58,Galle,Card
+ORD1619,2024-03-28,CUST998,Anjali,Books,Comics,3,2787.96,8363.88,Kandy,Card
+ORD1620,2024-03-29,CUST367,Praveen,Home Appliances,Washing Machine,6,1893.03,11358.18,Jaffna,Card
+ORD1621,2024-03-29,CUST282,Ramesh,Clothing,Jacket,6,1888.88,11333.28,Jaffna,Card
+ORD1622,2024-03-30,CUST694,Anjali,Home Appliances,Mixer,10,742.58,7425.8,Kurunegala,Online
+ORD1623,2024-03-31,CUST371,Tharindu,Clothing,Shirt,5,4040.03,20200.15,Kurunegala,Card
+ORD1624,2024-03-31,CUST139,Manoj,Home Appliances,Mixer,3,4020.18,12060.54,Matara,Cash
+ORD1625,2024-04-01,CUST211,Kavya,Home Appliances,Fan,3,2165.45,6496.35,Kandy,Online
+ORD1626,2024-04-02,CUST710,Kavya,Books,Notebook,6,3948.13,23688.78,Galle,Card
+ORD1627,2024-04-03,CUST544,Anjali,Books,Notebook,1,2052.17,2052.17,Matara,Cash
+ORD1628,2024-04-03,CUST453,Sutharsiga,Electronics,Laptop,5,2435.04,12175.2,Matara,Cash
+ORD1629,2024-04-04,CUST846,Manoj,Home Appliances,Microwave,5,1868.71,9343.55,Kurunegala,Online
+ORD1630,2024-04-05,CUST905,Ramesh,Groceries,Oil,1,2117.63,2117.63,Galle,Online
+ORD1631,2024-04-06,CUST421,Sutharsiga,Books,Textbook,10,2921.88,29218.8,Matara,Online
+ORD1632,2024-04-06,CUST546,Manoj,Clothing,Dress,6,1692.94,10157.64,Kurunegala,Card
+ORD1633,2024-04-07,CUST720,Dilani,Toys,Ball,2,1967.25,3934.5,Galle,Card
+ORD1634,2024-04-08,CUST623,Ramesh,Toys,Doll,3,3238.85,9716.55,Galle,Card
+ORD1635,2024-04-09,CUST218,Manoj,Toys,Blocks,10,2083.39,20833.9,Colombo,Cash
+ORD1636,2024-04-09,CUST494,Manoj,Clothing,Dress,4,1636.06,6544.24,Matara,Card
+ORD1637,2024-04-10,CUST690,Kavya,Toys,Puzzle,10,3258.76,32587.6,Galle,Card
+ORD1638,2024-04-11,CUST294,Dilani,Groceries,Eggs,9,4831.08,43479.72,Jaffna,Cash
+ORD1639,2024-04-11,CUST360,Manoj,Clothing,Shirt,3,3666.08,10998.24,Matara,Card
+ORD1640,2024-04-12,CUST145,Dilani,Toys,Car Toy,4,917.86,3671.44,Colombo,Cash
+ORD1641,2024-04-13,CUST825,Praveen,Electronics,Tablet,9,363.74,3273.66,Jaffna,Online
+ORD1642,2024-04-14,CUST546,Dilani,Electronics,Mobile,5,3128.7,15643.5,Colombo,Online
+ORD1643,2024-04-14,CUST101,Nimal,Home Appliances,Microwave,4,1312.24,5248.96,Galle,Card
+ORD1644,2024-04-15,CUST632,Ramesh,Toys,Doll,3,2681.04,8043.12,Kandy,Cash
+ORD1645,2024-04-16,CUST925,Kavya,Electronics,Headphones,6,4334.78,26008.68,Jaffna,Online
+ORD1646,2024-04-17,CUST651,Kavya,Groceries,Eggs,8,762.06,6096.48,Matara,Online
+ORD1647,2024-04-17,CUST803,Kavya,Clothing,Shoes,10,2337.06,23370.6,Matara,Online
+ORD1648,2024-04-18,CUST836,Kavya,Books,Magazine,9,3234.95,29114.55,Kurunegala,Card
+ORD1649,2024-04-19,CUST859,Manoj,Groceries,Bread,9,1212.93,10916.37,Colombo,Card
+ORD1650,2024-04-19,CUST854,Kavya,Groceries,Oil,7,1373.05,9611.35,Galle,Cash
+ORD1651,2024-04-20,CUST786,Dilani,Electronics,Smartwatch,3,1785.04,5355.12,Jaffna,Online
+ORD1652,2024-04-21,CUST301,Nimal,Electronics,Tablet,8,1568.09,12544.72,Jaffna,Card
+ORD1653,2024-04-22,CUST472,Anjali,Books,Textbook,1,2786.24,2786.24,Kandy,Card
+ORD1654,2024-04-22,CUST541,Arjun,Books,Magazine,7,1324.49,9271.43,Matara,Online
+ORD1655,2024-04-23,CUST171,Tharindu,Toys,Ball,7,1180.9,8266.3,Colombo,Card
+ORD1656,2024-04-24,CUST780,Anjali,Toys,Doll,9,3846.24,34616.16,Kurunegala,Online
+ORD1657,2024-04-25,CUST438,Anjali,Toys,Puzzle,5,3277.44,16387.2,Kurunegala,Card
+ORD1658,2024-04-25,CUST738,Dilani,Home Appliances,Mixer,2,993.8,1987.6,Galle,Cash
+ORD1659,2024-04-26,CUST421,Kavya,Toys,Ball,10,2318.56,23185.6,Matara,Online
+ORD1660,2024-04-27,CUST779,Manoj,Home Appliances,Mixer,6,195.04,1170.24,Colombo,Online
+ORD1661,2024-04-28,CUST968,Dilani,Electronics,Laptop,2,1482.36,2964.72,Kandy,Online
+ORD1662,2024-04-28,CUST227,Manoj,Home Appliances,Fan,4,541.97,2167.88,Colombo,Card
+ORD1663,2024-04-29,CUST837,Arjun,Clothing,Dress,7,1626.73,11387.11,Jaffna,Card
+ORD1664,2024-04-30,CUST407,Praveen,Home Appliances,Fan,6,493.09,2958.54,Kandy,Cash
+ORD1665,2024-04-30,CUST619,Tharindu,Groceries,Bread,2,2761.64,5523.28,Kandy,Cash
+ORD1666,2024-05-01,CUST416,Praveen,Groceries,Bread,1,697.61,697.61,Matara,Cash
+ORD1667,2024-05-02,CUST782,Dilani,Home Appliances,Fridge,4,3714.33,14857.32,Colombo,Cash
+ORD1668,2024-05-03,CUST518,Kavya,Home Appliances,Fan,9,3363.44,30270.96,Kandy,Card
+ORD1669,2024-05-03,CUST434,Tharindu,Home Appliances,Microwave,6,877.2,5263.2,Matara,Cash
+ORD1670,2024-05-04,CUST512,Anjali,Toys,Blocks,9,698.49,6286.41,Jaffna,Online
+ORD1671,2024-05-05,CUST813,Sutharsiga,Groceries,Milk,6,4448.85,26693.1,Matara,Cash
+ORD1672,2024-05-06,CUST402,Nimal,Electronics,Laptop,7,1690.12,11830.84,Kandy,Card
+ORD1673,2024-05-06,CUST667,Ramesh,Books,Novel,7,3966.8,27767.6,Colombo,Cash
+ORD1674,2024-05-07,CUST230,Sutharsiga,Books,Magazine,10,859.46,8594.6,Colombo,Cash
+ORD1675,2024-05-08,CUST296,Kavya,Clothing,Jacket,2,3461.13,6922.26,Galle,Online
+ORD1676,2024-05-08,CUST530,Dilani,Electronics,Mobile,6,3258.42,19550.52,Matara,Online
+ORD1677,2024-05-09,CUST780,Anjali,Electronics,Laptop,8,1240.11,9920.88,Kurunegala,Online
+ORD1678,2024-05-10,CUST488,Dilani,Groceries,Bread,4,204.63,818.52,Jaffna,Card
+ORD1679,2024-05-11,CUST793,Kavya,Toys,Doll,5,4503.45,22517.25,Jaffna,Online
+ORD1680,2024-05-11,CUST866,Praveen,Home Appliances,Washing Machine,5,2759.4,13797.0,Jaffna,Cash
+ORD1681,2024-05-12,CUST278,Tharindu,Books,Textbook,9,1803.56,16232.04,Matara,Card
+ORD1682,2024-05-13,CUST730,Sutharsiga,Groceries,Eggs,9,885.68,7971.12,Kurunegala,Cash
+ORD1683,2024-05-14,CUST682,Manoj,Home Appliances,Microwave,5,2753.87,13769.35,Jaffna,Cash
+ORD1684,2024-05-14,CUST408,Anjali,Toys,Blocks,7,3694.92,25864.44,Colombo,Online
+ORD1685,2024-05-15,CUST515,Tharindu,Groceries,Eggs,4,1671.4,6685.6,Colombo,Online
+ORD1686,2024-05-16,CUST661,Tharindu,Books,Magazine,4,2667.94,10671.76,Jaffna,Online
+ORD1687,2024-05-17,CUST953,Anjali,Clothing,Shoes,5,1680.74,8403.7,Matara,Card
+ORD1688,2024-05-17,CUST100,Arjun,Electronics,Mobile,9,3328.57,29957.13,Colombo,Cash
+ORD1689,2024-05-18,CUST411,Tharindu,Clothing,Shirt,4,624.57,2498.28,Kandy,Cash
+ORD1690,2024-05-19,CUST393,Praveen,Electronics,Smartwatch,7,3323.81,23266.67,Kurunegala,Online
+ORD1691,2024-05-19,CUST315,Arjun,Toys,Blocks,5,340.52,1702.6,Kandy,Online
+ORD1692,2024-05-20,CUST540,Nimal,Toys,Car Toy,1,4658.03,4658.03,Kandy,Online
+ORD1693,2024-05-21,CUST904,Praveen,Home Appliances,Fan,8,4025.0,32200.0,Colombo,Card
+ORD1694,2024-05-22,CUST693,Praveen,Books,Magazine,6,3991.82,23950.92,Colombo,Online
+ORD1695,2024-05-22,CUST721,Dilani,Groceries,Eggs,1,3698.07,3698.07,Galle,Cash
+ORD1696,2024-05-23,CUST770,Dilani,Clothing,Shoes,2,596.0,1192.0,Kandy,Online
+ORD1697,2024-05-24,CUST429,Arjun,Home Appliances,Mixer,4,2678.34,10713.36,Kandy,Online
+ORD1698,2024-05-25,CUST576,Nimal,Toys,Doll,9,3771.05,33939.45,Jaffna,Online
+ORD1699,2024-05-25,CUST552,Nimal,Electronics,Smartwatch,6,3405.01,20430.06,Matara,Online
+ORD1700,2024-05-26,CUST552,Tharindu,Home Appliances,Fan,3,3983.06,11949.18,Kurunegala,Card
+ORD1701,2024-05-27,CUST791,Manoj,Books,Comics,3,2716.11,8148.33,Kurunegala,Card
+ORD1702,2024-05-27,CUST318,Kavya,Groceries,Oil,9,4958.17,44623.53,Galle,Card
+ORD1703,2024-05-28,CUST623,Nimal,Home Appliances,Fridge,6,3081.23,18487.38,Kurunegala,Online
+ORD1704,2024-05-29,CUST584,Arjun,Clothing,Jacket,9,4638.12,41743.08,Galle,Card
+ORD1705,2024-05-30,CUST912,Kavya,Home Appliances,Fridge,7,100.96,706.72,Colombo,Card
+ORD1706,2024-05-30,CUST915,Anjali,Books,Novel,9,761.92,6857.28,Galle,Cash
+ORD1707,2024-05-31,CUST853,Sutharsiga,Groceries,Milk,4,4293.03,17172.12,Colombo,Online
+ORD1708,2024-06-01,CUST273,Manoj,Groceries,Eggs,9,2825.98,25433.82,Kurunegala,Cash
+ORD1709,2024-06-02,CUST774,Manoj,Electronics,Mobile,8,1842.71,14741.68,Kandy,Card
+ORD1710,2024-06-02,CUST186,Ramesh,Groceries,Eggs,4,1241.67,4966.68,Galle,Cash
+ORD1711,2024-06-03,CUST390,Dilani,Books,Magazine,10,4597.62,45976.2,Matara,Cash
+ORD1712,2024-06-04,CUST627,Nimal,Toys,Puzzle,8,947.22,7577.76,Matara,Online
+ORD1713,2024-06-05,CUST779,Dilani,Books,Novel,10,3247.05,32470.5,Colombo,Online
+ORD1714,2024-06-05,CUST748,Praveen,Books,Magazine,2,3922.6,7845.2,Galle,Card
+ORD1715,2024-06-06,CUST734,Dilani,Home Appliances,Fridge,2,4361.95,8723.9,Kandy,Online
+ORD1716,2024-06-07,CUST443,Tharindu,Toys,Blocks,1,3206.05,3206.05,Matara,Card
+ORD1717,2024-06-07,CUST195,Tharindu,Electronics,Headphones,9,301.79,2716.11,Kurunegala,Online
+ORD1718,2024-06-08,CUST938,Kavya,Clothing,Dress,9,3519.07,31671.63,Kandy,Cash
+ORD1719,2024-06-09,CUST869,Arjun,Toys,Ball,8,3788.92,30311.36,Kurunegala,Online
+ORD1720,2024-06-10,CUST340,Nimal,Electronics,Laptop,7,1519.94,10639.58,Jaffna,Cash
+ORD1721,2024-06-10,CUST788,Nimal,Clothing,Dress,2,2431.69,4863.38,Matara,Cash
+ORD1722,2024-06-11,CUST417,Tharindu,Books,Magazine,5,516.89,2584.45,Kurunegala,Card
+ORD1723,2024-06-12,CUST330,Arjun,Toys,Doll,3,2456.52,7369.56,Kandy,Card
+ORD1724,2024-06-13,CUST925,Kavya,Home Appliances,Washing Machine,4,2849.72,11398.88,Matara,Online
+ORD1725,2024-06-13,CUST303,Praveen,Clothing,Jeans,2,1404.66,2809.32,Jaffna,Card
+ORD1726,2024-06-14,CUST250,Ramesh,Toys,Blocks,2,651.4,1302.8,Jaffna,Card
+ORD1727,2024-06-15,CUST125,Manoj,Groceries,Oil,4,1671.62,6686.48,Kurunegala,Online
+ORD1728,2024-06-15,CUST147,Ramesh,Electronics,Headphones,3,4939.49,14818.47,Kurunegala,Card
+ORD1729,2024-06-16,CUST350,Tharindu,Books,Textbook,8,319.9,2559.2,Kandy,Cash
+ORD1730,2024-06-17,CUST586,Ramesh,Toys,Puzzle,3,3812.9,11438.7,Colombo,Cash
+ORD1731,2024-06-18,CUST725,Manoj,Toys,Car Toy,4,4749.81,18999.24,Kandy,Card
+ORD1732,2024-06-18,CUST970,Praveen,Electronics,Headphones,2,1595.08,3190.16,Jaffna,Cash
+ORD1733,2024-06-19,CUST886,Sutharsiga,Groceries,Milk,9,1138.19,10243.71,Kurunegala,Online
+ORD1734,2024-06-20,CUST174,Anjali,Groceries,Eggs,8,3152.91,25223.28,Kandy,Online
+ORD1735,2024-06-21,CUST566,Kavya,Toys,Car Toy,7,2956.72,20697.04,Matara,Online
+ORD1736,2024-06-21,CUST524,Dilani,Electronics,Headphones,3,394.54,1183.62,Kandy,Online
+ORD1737,2024-06-22,CUST744,Manoj,Books,Comics,1,2378.31,2378.31,Colombo,Cash
+ORD1738,2024-06-23,CUST689,Kavya,Home Appliances,Microwave,6,4334.98,26009.88,Colombo,Card
+ORD1739,2024-06-24,CUST299,Praveen,Toys,Ball,4,4900.98,19603.92,Kurunegala,Online
+ORD1740,2024-06-24,CUST835,Tharindu,Electronics,Headphones,8,4347.19,34777.52,Kurunegala,Cash
+ORD1741,2024-06-25,CUST813,Ramesh,Clothing,Jeans,9,4837.28,43535.52,Kurunegala,Online
+ORD1742,2024-06-26,CUST493,Anjali,Electronics,Mobile,4,4619.12,18476.48,Galle,Card
+ORD1743,2024-06-26,CUST606,Praveen,Home Appliances,Fridge,3,190.02,570.06,Matara,Card
+ORD1744,2024-06-27,CUST509,Arjun,Groceries,Oil,4,4980.37,19921.48,Kurunegala,Card
+ORD1745,2024-06-28,CUST349,Sutharsiga,Electronics,Headphones,7,4462.97,31240.79,Colombo,Online
+ORD1746,2024-06-29,CUST251,Manoj,Groceries,Milk,3,1774.75,5324.25,Jaffna,Online
+ORD1747,2024-06-29,CUST771,Tharindu,Clothing,Shirt,7,2651.52,18560.64,Matara,Online
+ORD1748,2024-06-30,CUST804,Arjun,Toys,Doll,7,1277.77,8944.39,Kandy,Card
+ORD1749,2024-07-01,CUST105,Arjun,Groceries,Eggs,6,2300.93,13805.58,Kandy,Cash
+ORD1750,2024-07-02,CUST868,Sutharsiga,Toys,Doll,10,2752.63,27526.3,Kandy,Cash
+ORD1751,2024-07-02,CUST981,Praveen,Groceries,Eggs,3,2207.32,6621.96,Kandy,Online
+ORD1752,2024-07-03,CUST888,Sutharsiga,Books,Textbook,6,432.29,2593.74,Kurunegala,Online
+ORD1753,2024-07-04,CUST209,Nimal,Electronics,Laptop,6,4213.66,25281.96,Kandy,Online
+ORD1754,2024-07-04,CUST897,Praveen,Electronics,Headphones,7,4809.86,33669.02,Galle,Card
+ORD1755,2024-07-05,CUST535,Praveen,Toys,Puzzle,3,3917.63,11752.89,Colombo,Cash
+ORD1756,2024-07-06,CUST324,Dilani,Clothing,Shirt,10,3123.04,31230.4,Kurunegala,Online
+ORD1757,2024-07-07,CUST280,Kavya,Books,Textbook,10,1237.69,12376.9,Matara,Cash
+ORD1758,2024-07-07,CUST923,Arjun,Groceries,Rice,8,757.02,6056.16,Kurunegala,Card
+ORD1759,2024-07-08,CUST812,Ramesh,Toys,Puzzle,3,4275.43,12826.29,Jaffna,Card
+ORD1760,2024-07-09,CUST630,Manoj,Clothing,Jeans,4,1208.74,4834.96,Jaffna,Cash
+ORD1761,2024-07-10,CUST575,Nimal,Groceries,Bread,4,3737.6,14950.4,Kandy,Cash
+ORD1762,2024-07-10,CUST151,Nimal,Electronics,Laptop,8,4348.93,34791.44,Jaffna,Online
+ORD1763,2024-07-11,CUST670,Manoj,Groceries,Bread,4,2195.02,8780.08,Colombo,Online
+ORD1764,2024-07-12,CUST355,Anjali,Toys,Ball,6,2031.34,12188.04,Matara,Online
+ORD1765,2024-07-13,CUST968,Sutharsiga,Books,Notebook,9,3242.83,29185.47,Matara,Cash
+ORD1766,2024-07-13,CUST224,Anjali,Books,Novel,8,2338.81,18710.48,Colombo,Cash
+ORD1767,2024-07-14,CUST567,Anjali,Books,Notebook,7,4920.77,34445.39,Colombo,Online
+ORD1768,2024-07-15,CUST236,Dilani,Home Appliances,Washing Machine,1,1030.27,1030.27,Jaffna,Card
+ORD1769,2024-07-15,CUST920,Kavya,Groceries,Oil,8,915.78,7326.24,Galle,Online
+ORD1770,2024-07-16,CUST575,Manoj,Electronics,Smartwatch,3,2371.54,7114.62,Matara,Card
+ORD1771,2024-07-17,CUST783,Arjun,Electronics,Smartwatch,2,980.88,1961.76,Kurunegala,Online
+ORD1772,2024-07-18,CUST643,Manoj,Books,Textbook,7,2126.44,14885.08,Jaffna,Cash
+ORD1773,2024-07-18,CUST672,Arjun,Clothing,Jacket,10,4493.43,44934.3,Kandy,Card
+ORD1774,2024-07-19,CUST709,Ramesh,Electronics,Headphones,6,3489.42,20936.52,Matara,Cash
+ORD1775,2024-07-20,CUST424,Kavya,Toys,Car Toy,2,659.41,1318.82,Jaffna,Online
+ORD1776,2024-07-21,CUST873,Dilani,Groceries,Rice,9,3565.67,32091.03,Matara,Online
+ORD1777,2024-07-21,CUST553,Tharindu,Books,Textbook,7,2796.69,19576.83,Colombo,Cash
+ORD1778,2024-07-22,CUST727,Manoj,Groceries,Eggs,3,894.41,2683.23,Kandy,Cash
+ORD1779,2024-07-23,CUST934,Tharindu,Toys,Car Toy,7,1609.5,11266.5,Matara,Card
+ORD1780,2024-07-23,CUST836,Manoj,Groceries,Milk,2,4502.86,9005.72,Kandy,Cash
+ORD1781,2024-07-24,CUST616,Manoj,Books,Comics,1,2347.35,2347.35,Jaffna,Online
+ORD1782,2024-07-25,CUST536,Praveen,Electronics,Smartwatch,8,1265.6,10124.8,Kurunegala,Online
+ORD1783,2024-07-26,CUST950,Kavya,Home Appliances,Fridge,7,2265.19,15856.33,Kurunegala,Online
+ORD1784,2024-07-26,CUST661,Manoj,Electronics,Laptop,9,1462.75,13164.75,Matara,Online
+ORD1785,2024-07-27,CUST556,Arjun,Clothing,Shirt,3,826.46,2479.38,Matara,Card
+ORD1786,2024-07-28,CUST262,Dilani,Electronics,Laptop,1,3368.28,3368.28,Kurunegala,Card
+ORD1787,2024-07-29,CUST861,Nimal,Groceries,Rice,1,633.55,633.55,Kandy,Cash
+ORD1788,2024-07-29,CUST982,Tharindu,Toys,Puzzle,10,3338.53,33385.3,Matara,Online
+ORD1789,2024-07-30,CUST586,Ramesh,Books,Notebook,3,4834.84,14504.52,Matara,Online
+ORD1790,2024-07-31,CUST560,Dilani,Groceries,Rice,2,3865.71,7731.42,Galle,Card
+ORD1791,2024-08-01,CUST365,Kavya,Home Appliances,Fan,7,4232.22,29625.54,Colombo,Card
+ORD1792,2024-08-01,CUST869,Manoj,Home Appliances,Mixer,2,3503.64,7007.28,Galle,Card
+ORD1793,2024-08-02,CUST353,Kavya,Books,Magazine,9,1128.24,10154.16,Kandy,Online
+ORD1794,2024-08-03,CUST960,Sutharsiga,Electronics,Mobile,10,3675.67,36756.7,Matara,Online
+ORD1795,2024-08-03,CUST752,Manoj,Electronics,Tablet,10,4676.07,46760.7,Matara,Card
+ORD1796,2024-08-04,CUST383,Tharindu,Home Appliances,Washing Machine,6,1372.33,8233.98,Kurunegala,Online
+ORD1797,2024-08-05,CUST884,Manoj,Groceries,Milk,10,2856.91,28569.1,Kurunegala,Online
+ORD1798,2024-08-06,CUST896,Anjali,Toys,Ball,8,4059.1,32472.8,Kurunegala,Cash
+ORD1799,2024-08-06,CUST633,Kavya,Toys,Puzzle,4,107.75,431.0,Colombo,Card
+ORD1800,2024-08-07,CUST596,Manoj,Toys,Car Toy,4,4017.87,16071.48,Jaffna,Card
+ORD1801,2024-08-08,CUST741,Praveen,Electronics,Headphones,6,2846.04,17076.24,Matara,Cash
+ORD1802,2024-08-09,CUST344,Dilani,Electronics,Laptop,5,1346.65,6733.25,Colombo,Card
+ORD1803,2024-08-09,CUST381,Sutharsiga,Groceries,Eggs,9,1687.23,15185.07,Colombo,Cash
+ORD1804,2024-08-10,CUST550,Dilani,Toys,Puzzle,6,2040.64,12243.84,Kurunegala,Online
+ORD1805,2024-08-11,CUST179,Nimal,Electronics,Laptop,4,1719.52,6878.08,Galle,Online
+ORD1806,2024-08-11,CUST830,Kavya,Home Appliances,Fridge,1,3263.7,3263.7,Jaffna,Cash
+ORD1807,2024-08-12,CUST392,Anjali,Toys,Ball,9,4490.05,40410.45,Jaffna,Card
+ORD1808,2024-08-13,CUST340,Kavya,Toys,Car Toy,9,1566.78,14101.02,Matara,Online
+ORD1809,2024-08-14,CUST378,Anjali,Groceries,Eggs,9,191.72,1725.48,Kurunegala,Online
+ORD1810,2024-08-14,CUST443,Anjali,Groceries,Oil,2,4851.11,9702.22,Galle,Cash
+ORD1811,2024-08-15,CUST427,Sutharsiga,Groceries,Bread,9,4227.79,38050.11,Kurunegala,Online
+ORD1812,2024-08-16,CUST653,Dilani,Home Appliances,Mixer,10,672.54,6725.4,Galle,Online
+ORD1813,2024-08-17,CUST182,Dilani,Groceries,Rice,5,2127.96,10639.8,Jaffna,Cash
+ORD1814,2024-08-17,CUST241,Nimal,Groceries,Bread,5,1159.09,5795.45,Galle,Cash
+ORD1815,2024-08-18,CUST254,Sutharsiga,Electronics,Headphones,1,3911.17,3911.17,Colombo,Card
+ORD1816,2024-08-19,CUST336,Kavya,Books,Novel,8,4534.28,36274.24,Kandy,Cash
+ORD1817,2024-08-20,CUST492,Nimal,Groceries,Bread,9,1620.76,14586.84,Galle,Cash
+ORD1818,2024-08-20,CUST810,Praveen,Electronics,Smartwatch,3,1105.42,3316.26,Colombo,Card
+ORD1819,2024-08-21,CUST256,Sutharsiga,Home Appliances,Washing Machine,2,120.14,240.28,Colombo,Online
+ORD1820,2024-08-22,CUST823,Nimal,Books,Novel,6,2387.69,14326.14,Colombo,Cash
+ORD1821,2024-08-22,CUST319,Tharindu,Books,Comics,1,2930.04,2930.04,Galle,Online
+ORD1822,2024-08-23,CUST165,Nimal,Clothing,Dress,4,1043.47,4173.88,Galle,Online
+ORD1823,2024-08-24,CUST524,Kavya,Groceries,Bread,2,1436.01,2872.02,Kandy,Card
+ORD1824,2024-08-25,CUST517,Nimal,Electronics,Mobile,10,2842.17,28421.7,Colombo,Cash
+ORD1825,2024-08-25,CUST438,Ramesh,Books,Comics,9,1660.58,14945.22,Kandy,Online
+ORD1826,2024-08-26,CUST655,Ramesh,Groceries,Eggs,4,939.25,3757.0,Galle,Online
+ORD1827,2024-08-27,CUST577,Tharindu,Groceries,Eggs,8,348.56,2788.48,Colombo,Card
+ORD1828,2024-08-28,CUST525,Tharindu,Toys,Car Toy,2,1979.64,3959.28,Colombo,Card
+ORD1829,2024-08-28,CUST163,Ramesh,Home Appliances,Mixer,10,4467.25,44672.5,Matara,Online
+ORD1830,2024-08-29,CUST311,Tharindu,Toys,Ball,10,1842.56,18425.6,Galle,Cash
+ORD1831,2024-08-30,CUST952,Tharindu,Toys,Blocks,2,4871.04,9742.08,Jaffna,Online
+ORD1832,2024-08-30,CUST530,Dilani,Clothing,Shirt,8,576.59,4612.72,Galle,Online
+ORD1833,2024-08-31,CUST498,Dilani,Toys,Ball,8,1235.3,9882.4,Kandy,Cash
+ORD1834,2024-09-01,CUST888,Nimal,Books,Comics,6,2021.18,12127.08,Matara,Online
+ORD1835,2024-09-02,CUST698,Ramesh,Groceries,Oil,8,2488.78,19910.24,Colombo,Card
+ORD1836,2024-09-02,CUST812,Kavya,Electronics,Headphones,8,2360.08,18880.64,Kandy,Card
+ORD1837,2024-09-03,CUST120,Ramesh,Groceries,Eggs,10,724.23,7242.3,Colombo,Card
+ORD1838,2024-09-04,CUST977,Ramesh,Toys,Car Toy,6,2825.13,16950.78,Colombo,Card
+ORD1839,2024-09-05,CUST883,Praveen,Books,Magazine,7,2993.63,20955.41,Kandy,Online
+ORD1840,2024-09-05,CUST689,Praveen,Clothing,Shoes,3,4872.07,14616.21,Jaffna,Cash
+ORD1841,2024-09-06,CUST489,Tharindu,Groceries,Milk,10,2212.63,22126.3,Jaffna,Online
+ORD1842,2024-09-07,CUST588,Arjun,Groceries,Eggs,4,948.12,3792.48,Matara,Cash
+ORD1843,2024-09-08,CUST106,Dilani,Toys,Blocks,8,660.18,5281.44,Kurunegala,Card
+ORD1844,2024-09-08,CUST460,Anjali,Groceries,Eggs,2,4127.91,8255.82,Kandy,Card
+ORD1845,2024-09-09,CUST405,Kavya,Home Appliances,Fan,10,632.85,6328.5,Kurunegala,Card
+ORD1846,2024-09-10,CUST871,Praveen,Groceries,Bread,1,543.61,543.61,Kandy,Online
+ORD1847,2024-09-10,CUST499,Ramesh,Toys,Car Toy,3,3338.32,10014.96,Jaffna,Online
+ORD1848,2024-09-11,CUST973,Ramesh,Groceries,Bread,10,2931.86,29318.6,Kandy,Cash
+ORD1849,2024-09-12,CUST955,Arjun,Toys,Puzzle,5,2894.35,14471.75,Matara,Card
+ORD1850,2024-09-13,CUST529,Arjun,Home Appliances,Microwave,2,2955.36,5910.72,Kurunegala,Online
+ORD1851,2024-09-13,CUST651,Dilani,Home Appliances,Mixer,5,405.81,2029.05,Kurunegala,Cash
+ORD1852,2024-09-14,CUST865,Praveen,Electronics,Smartwatch,6,637.52,3825.12,Galle,Cash
+ORD1853,2024-09-15,CUST852,Kavya,Clothing,Jacket,10,2031.91,20319.1,Galle,Online
+ORD1854,2024-09-16,CUST659,Kavya,Home Appliances,Fridge,7,2232.43,15627.01,Kandy,Online
+ORD1855,2024-09-16,CUST919,Tharindu,Clothing,Jacket,3,1022.31,3066.93,Jaffna,Card
+ORD1856,2024-09-17,CUST717,Tharindu,Home Appliances,Mixer,5,4987.53,24937.65,Matara,Cash
+ORD1857,2024-09-18,CUST325,Anjali,Clothing,Shirt,2,3277.11,6554.22,Kandy,Online
+ORD1858,2024-09-18,CUST599,Manoj,Home Appliances,Fridge,3,514.85,1544.55,Matara,Card
+ORD1859,2024-09-19,CUST324,Ramesh,Home Appliances,Washing Machine,7,3153.92,22077.44,Jaffna,Online
+ORD1860,2024-09-20,CUST379,Tharindu,Home Appliances,Washing Machine,8,1985.1,15880.8,Kandy,Cash
+ORD1861,2024-09-21,CUST546,Anjali,Home Appliances,Washing Machine,1,2931.9,2931.9,Matara,Cash
+ORD1862,2024-09-21,CUST597,Arjun,Toys,Blocks,5,2113.11,10565.55,Kurunegala,Online
+ORD1863,2024-09-22,CUST129,Ramesh,Groceries,Rice,1,2883.93,2883.93,Matara,Card
+ORD1864,2024-09-23,CUST498,Tharindu,Electronics,Smartwatch,8,4812.51,38500.08,Colombo,Cash
+ORD1865,2024-09-24,CUST444,Sutharsiga,Toys,Blocks,5,2378.19,11890.95,Colombo,Online
+ORD1866,2024-09-24,CUST784,Dilani,Books,Novel,4,2415.01,9660.04,Matara,Online
+ORD1867,2024-09-25,CUST795,Tharindu,Toys,Car Toy,9,4010.68,36096.12,Galle,Online
+ORD1868,2024-09-26,CUST917,Ramesh,Electronics,Headphones,9,3914.78,35233.02,Jaffna,Card
+ORD1869,2024-09-27,CUST514,Anjali,Books,Magazine,10,3695.69,36956.9,Jaffna,Card
+ORD1870,2024-09-27,CUST841,Nimal,Groceries,Oil,3,273.1,819.3,Kurunegala,Online
+ORD1871,2024-09-28,CUST269,Arjun,Groceries,Eggs,5,400.95,2004.75,Jaffna,Online
+ORD1872,2024-09-29,CUST960,Ramesh,Clothing,Shoes,1,3315.97,3315.97,Galle,Online
+ORD1873,2024-09-29,CUST578,Kavya,Books,Novel,5,2475.32,12376.6,Kandy,Online
+ORD1874,2024-09-30,CUST230,Dilani,Electronics,Headphones,5,749.44,3747.2,Galle,Card
+ORD1875,2024-10-01,CUST737,Kavya,Groceries,Rice,2,3058.73,6117.46,Kurunegala,Online
+ORD1876,2024-10-02,CUST646,Anjali,Clothing,Jacket,6,4058.42,24350.52,Galle,Online
+ORD1877,2024-10-02,CUST127,Nimal,Clothing,Jacket,3,4016.92,12050.76,Colombo,Card
+ORD1878,2024-10-03,CUST503,Arjun,Electronics,Laptop,10,4676.32,46763.2,Kandy,Card
+ORD1879,2024-10-04,CUST706,Sutharsiga,Home Appliances,Fridge,4,3337.27,13349.08,Matara,Online
+ORD1880,2024-10-05,CUST677,Ramesh,Clothing,Jeans,10,3698.37,36983.7,Galle,Cash
+ORD1881,2024-10-05,CUST778,Ramesh,Toys,Puzzle,2,357.36,714.72,Jaffna,Card
+ORD1882,2024-10-06,CUST127,Anjali,Home Appliances,Microwave,8,3756.14,30049.12,Kurunegala,Cash
+ORD1883,2024-10-07,CUST185,Anjali,Home Appliances,Fridge,8,1386.86,11094.88,Kurunegala,Card
+ORD1884,2024-10-07,CUST758,Tharindu,Electronics,Headphones,8,1971.82,15774.56,Galle,Online
+ORD1885,2024-10-08,CUST538,Nimal,Toys,Car Toy,2,4596.79,9193.58,Matara,Card
+ORD1886,2024-10-09,CUST238,Dilani,Home Appliances,Washing Machine,5,1741.34,8706.7,Galle,Cash
+ORD1887,2024-10-10,CUST987,Dilani,Groceries,Eggs,7,2359.43,16516.01,Matara,Online
+ORD1888,2024-10-10,CUST572,Praveen,Clothing,Shoes,4,2647.77,10591.08,Matara,Online
+ORD1889,2024-10-11,CUST286,Manoj,Clothing,Dress,9,151.83,1366.47,Colombo,Cash
+ORD1890,2024-10-12,CUST151,Manoj,Electronics,Tablet,2,2673.79,5347.58,Matara,Card
+ORD1891,2024-10-13,CUST366,Dilani,Groceries,Milk,5,1334.29,6671.45,Colombo,Cash
+ORD1892,2024-10-13,CUST488,Tharindu,Books,Novel,1,4698.68,4698.68,Matara,Cash
+ORD1893,2024-10-14,CUST435,Arjun,Books,Novel,2,523.29,1046.58,Kurunegala,Cash
+ORD1894,2024-10-15,CUST316,Dilani,Home Appliances,Washing Machine,3,4490.41,13471.23,Matara,Cash
+ORD1895,2024-10-16,CUST565,Kavya,Groceries,Oil,8,3336.34,26690.72,Colombo,Online
+ORD1896,2024-10-16,CUST434,Dilani,Home Appliances,Microwave,7,3491.89,24443.23,Matara,Card
+ORD1897,2024-10-17,CUST445,Kavya,Groceries,Milk,2,1458.71,2917.42,Colombo,Card
+ORD1898,2024-10-18,CUST879,Anjali,Home Appliances,Microwave,1,1365.37,1365.37,Galle,Cash
+ORD1899,2024-10-18,CUST488,Manoj,Home Appliances,Fan,8,4899.17,39193.36,Kandy,Online
+ORD1900,2024-10-19,CUST384,Praveen,Home Appliances,Mixer,8,631.31,5050.48,Kurunegala,Card
+ORD1901,2024-10-20,CUST870,Praveen,Clothing,Shoes,2,4571.79,9143.58,Matara,Card
+ORD1902,2024-10-21,CUST951,Tharindu,Electronics,Mobile,2,445.02,890.04,Matara,Card
+ORD1903,2024-10-21,CUST531,Nimal,Home Appliances,Fan,8,829.39,6635.12,Matara,Cash
+ORD1904,2024-10-22,CUST358,Dilani,Electronics,Tablet,5,842.88,4214.4,Galle,Card
+ORD1905,2024-10-23,CUST954,Kavya,Books,Novel,9,3567.27,32105.43,Jaffna,Card
+ORD1906,2024-10-24,CUST183,Tharindu,Home Appliances,Fridge,2,2746.63,5493.26,Colombo,Card
+ORD1907,2024-10-24,CUST581,Nimal,Toys,Ball,2,2879.5,5759.0,Galle,Card
+ORD1908,2024-10-25,CUST119,Dilani,Toys,Puzzle,7,370.45,2593.15,Matara,Cash
+ORD1909,2024-10-26,CUST867,Praveen,Groceries,Eggs,6,494.24,2965.44,Jaffna,Card
+ORD1910,2024-10-26,CUST652,Manoj,Toys,Doll,3,2816.93,8450.79,Jaffna,Online
+ORD1911,2024-10-27,CUST153,Nimal,Clothing,Dress,7,4492.66,31448.62,Matara,Online
+ORD1912,2024-10-28,CUST458,Tharindu,Groceries,Bread,2,4437.55,8875.1,Jaffna,Online
+ORD1913,2024-10-29,CUST329,Kavya,Clothing,Jeans,1,1046.15,1046.15,Matara,Online
+ORD1914,2024-10-29,CUST765,Praveen,Clothing,Jacket,7,408.66,2860.62,Kurunegala,Online
+ORD1915,2024-10-30,CUST170,Anjali,Groceries,Bread,9,4828.27,43454.43,Jaffna,Cash
+ORD1916,2024-10-31,CUST899,Manoj,Electronics,Headphones,1,1754.82,1754.82,Matara,Cash
+ORD1917,2024-11-01,CUST767,Dilani,Home Appliances,Fan,4,4054.81,16219.24,Matara,Online
+ORD1918,2024-11-01,CUST141,Nimal,Home Appliances,Washing Machine,3,3731.15,11193.45,Kandy,Cash
+ORD1919,2024-11-02,CUST872,Anjali,Electronics,Laptop,8,3303.77,26430.16,Jaffna,Online
+ORD1920,2024-11-03,CUST131,Kavya,Electronics,Laptop,3,170.39,511.17,Matara,Cash
+ORD1921,2024-11-04,CUST353,Manoj,Groceries,Rice,8,3095.01,24760.08,Kurunegala,Cash
+ORD1922,2024-11-04,CUST304,Anjali,Electronics,Mobile,8,3015.39,24123.12,Kurunegala,Cash
+ORD1923,2024-11-05,CUST959,Dilani,Electronics,Laptop,7,1752.98,12270.86,Matara,Online
+ORD1924,2024-11-06,CUST120,Arjun,Home Appliances,Microwave,2,4881.68,9763.36,Kurunegala,Online
+ORD1925,2024-11-06,CUST736,Dilani,Clothing,Dress,4,3844.72,15378.88,Kurunegala,Cash
+ORD1926,2024-11-07,CUST256,Praveen,Groceries,Rice,2,1442.08,2884.16,Jaffna,Cash
+ORD1927,2024-11-08,CUST344,Nimal,Toys,Puzzle,9,908.53,8176.77,Kandy,Online
+ORD1928,2024-11-09,CUST229,Sutharsiga,Electronics,Laptop,2,3976.16,7952.32,Matara,Online
+ORD1929,2024-11-09,CUST584,Dilani,Home Appliances,Mixer,1,4410.17,4410.17,Colombo,Cash
+ORD1930,2024-11-10,CUST785,Ramesh,Electronics,Laptop,2,3563.03,7126.06,Kurunegala,Card
+ORD1931,2024-11-11,CUST217,Sutharsiga,Home Appliances,Fridge,3,1110.19,3330.57,Matara,Card
+ORD1932,2024-11-12,CUST677,Sutharsiga,Books,Magazine,7,1272.34,8906.38,Kandy,Online
+ORD1933,2024-11-12,CUST323,Nimal,Toys,Car Toy,10,982.0,9820.0,Jaffna,Online
+ORD1934,2024-11-13,CUST576,Nimal,Electronics,Headphones,6,2152.05,12912.3,Kurunegala,Cash
+ORD1935,2024-11-14,CUST816,Kavya,Clothing,Shirt,9,4886.28,43976.52,Kurunegala,Card
+ORD1936,2024-11-14,CUST362,Praveen,Books,Notebook,4,2374.66,9498.64,Matara,Online
+ORD1937,2024-11-15,CUST885,Kavya,Clothing,Dress,1,1049.22,1049.22,Kandy,Online
+ORD1938,2024-11-16,CUST477,Anjali,Home Appliances,Fridge,3,882.82,2648.46,Colombo,Cash
+ORD1939,2024-11-17,CUST271,Anjali,Toys,Puzzle,5,1126.99,5634.95,Galle,Card
+ORD1940,2024-11-17,CUST720,Anjali,Books,Magazine,1,611.66,611.66,Colombo,Online
+ORD1941,2024-11-18,CUST721,Arjun,Clothing,Jeans,1,2476.8,2476.8,Colombo,Cash
+ORD1942,2024-11-19,CUST865,Dilani,Clothing,Jacket,10,2940.83,29408.3,Jaffna,Cash
+ORD1943,2024-11-20,CUST835,Tharindu,Toys,Puzzle,4,3916.98,15667.92,Galle,Cash
+ORD1944,2024-11-20,CUST217,Nimal,Electronics,Laptop,7,4362.44,30537.08,Jaffna,Cash
+ORD1945,2024-11-21,CUST896,Tharindu,Electronics,Tablet,10,2473.6,24736.0,Jaffna,Cash
+ORD1946,2024-11-22,CUST938,Manoj,Clothing,Shoes,8,972.5,7780.0,Galle,Cash
+ORD1947,2024-11-23,CUST267,Nimal,Home Appliances,Mixer,6,4880.22,29281.32,Kandy,Card
+ORD1948,2024-11-23,CUST418,Nimal,Clothing,Shirt,10,392.29,3922.9,Kandy,Cash
+ORD1949,2024-11-24,CUST210,Nimal,Home Appliances,Fridge,7,938.89,6572.23,Galle,Cash
+ORD1950,2024-11-25,CUST692,Tharindu,Groceries,Eggs,3,3968.78,11906.34,Matara,Online
+ORD1951,2024-11-25,CUST126,Nimal,Clothing,Shoes,9,4289.52,38605.68,Colombo,Card
+ORD1952,2024-11-26,CUST419,Ramesh,Books,Magazine,4,2998.75,11995.0,Jaffna,Card
+ORD1953,2024-11-27,CUST689,Arjun,Electronics,Tablet,4,1314.37,5257.48,Jaffna,Online
+ORD1954,2024-11-28,CUST793,Manoj,Clothing,Shoes,3,4577.4,13732.2,Colombo,Card
+ORD1955,2024-11-28,CUST484,Dilani,Electronics,Mobile,8,3694.03,29552.24,Kurunegala,Cash
+ORD1956,2024-11-29,CUST506,Sutharsiga,Home Appliances,Washing Machine,7,2448.42,17138.94,Matara,Cash
+ORD1957,2024-11-30,CUST832,Ramesh,Home Appliances,Fridge,4,507.15,2028.6,Colombo,Online
+ORD1958,2024-12-01,CUST303,Tharindu,Toys,Ball,4,750.29,3001.16,Galle,Cash
+ORD1959,2024-12-01,CUST177,Praveen,Toys,Car Toy,1,2450.94,2450.94,Galle,Cash
+ORD1960,2024-12-02,CUST706,Ramesh,Toys,Ball,10,3761.7,37617.0,Colombo,Card
+ORD1961,2024-12-03,CUST807,Sutharsiga,Home Appliances,Mixer,7,1006.23,7043.61,Galle,Online
+ORD1962,2024-12-03,CUST950,Anjali,Home Appliances,Fan,2,1985.91,3971.82,Matara,Card
+ORD1963,2024-12-04,CUST742,Sutharsiga,Books,Novel,5,2186.92,10934.6,Galle,Online
+ORD1964,2024-12-05,CUST348,Praveen,Books,Notebook,10,3992.95,39929.5,Matara,Cash
+ORD1965,2024-12-06,CUST204,Ramesh,Books,Comics,1,2622.21,2622.21,Matara,Card
+ORD1966,2024-12-06,CUST813,Sutharsiga,Electronics,Mobile,7,1891.4,13239.8,Kurunegala,Cash
+ORD1967,2024-12-07,CUST891,Dilani,Groceries,Oil,3,3276.05,9828.15,Matara,Cash
+ORD1968,2024-12-08,CUST408,Tharindu,Books,Textbook,3,4908.13,14724.39,Kandy,Online
+ORD1969,2024-12-09,CUST970,Ramesh,Electronics,Tablet,10,4368.54,43685.4,Matara,Cash
+ORD1970,2024-12-09,CUST800,Ramesh,Toys,Doll,6,1828.29,10969.74,Galle,Online
+ORD1971,2024-12-10,CUST714,Praveen,Toys,Ball,5,366.85,1834.25,Galle,Card
+ORD1972,2024-12-11,CUST924,Manoj,Home Appliances,Fridge,9,2680.74,24126.66,Colombo,Card
+ORD1973,2024-12-12,CUST223,Anjali,Toys,Blocks,9,4507.31,40565.79,Jaffna,Online
+ORD1974,2024-12-12,CUST915,Anjali,Groceries,Rice,4,4470.33,17881.32,Jaffna,Cash
+ORD1975,2024-12-13,CUST679,Manoj,Electronics,Tablet,3,1513.03,4539.09,Colombo,Cash
+ORD1976,2024-12-14,CUST901,Nimal,Clothing,Dress,2,3515.7,7031.4,Jaffna,Cash
+ORD1977,2024-12-14,CUST142,Sutharsiga,Clothing,Shoes,1,1536.53,1536.53,Matara,Online
+ORD1978,2024-12-15,CUST455,Tharindu,Clothing,Jacket,6,2158.64,12951.84,Matara,Online
+ORD1979,2024-12-16,CUST645,Nimal,Electronics,Headphones,4,408.45,1633.8,Kandy,Online
+ORD1980,2024-12-17,CUST538,Praveen,Toys,Puzzle,7,2935.65,20549.55,Matara,Online
+ORD1981,2024-12-17,CUST777,Arjun,Groceries,Bread,10,3362.69,33626.9,Kurunegala,Online
+ORD1982,2024-12-18,CUST479,Ramesh,Home Appliances,Fridge,5,2879.53,14397.65,Galle,Cash
+ORD1983,2024-12-19,CUST170,Dilani,Groceries,Milk,8,1922.32,15378.56,Galle,Cash
+ORD1984,2024-12-20,CUST618,Anjali,Clothing,Dress,5,2334.04,11670.2,Kandy,Online
+ORD1985,2024-12-20,CUST763,Kavya,Clothing,Shoes,5,993.17,4965.85,Kandy,Online
+ORD1986,2024-12-21,CUST449,Anjali,Toys,Doll,3,1265.74,3797.22,Colombo,Card
+ORD1987,2024-12-22,CUST112,Kavya,Books,Textbook,8,1376.0,11008.0,Kandy,Cash
+ORD1988,2024-12-22,CUST969,Praveen,Books,Novel,6,4892.31,29353.86,Kandy,Card
+ORD1989,2024-12-23,CUST530,Kavya,Home Appliances,Washing Machine,3,2714.85,8144.55,Colombo,Cash
+ORD1990,2024-12-24,CUST942,Nimal,Home Appliances,Fridge,3,4744.17,14232.51,Galle,Cash
+ORD1991,2024-12-25,CUST601,Praveen,Electronics,Smartwatch,9,1723.28,15509.52,Matara,Card
+ORD1992,2024-12-25,CUST208,Ramesh,Home Appliances,Microwave,10,3367.75,33677.5,Kurunegala,Online
+ORD1993,2024-12-26,CUST543,Anjali,Home Appliances,Microwave,2,3685.04,7370.08,Colombo,Cash
+ORD1994,2024-12-27,CUST470,Nimal,Toys,Blocks,2,1609.6,3219.2,Jaffna,Online
+ORD1995,2024-12-28,CUST750,Manoj,Clothing,Jacket,6,553.16,3318.96,Colombo,Online
+ORD1996,2024-12-28,CUST948,Kavya,Toys,Doll,10,2679.53,26795.3,Galle,Cash
+ORD1997,2024-12-29,CUST570,Sutharsiga,Electronics,Mobile,9,4262.31,38360.79,Matara,Online
+ORD1998,2024-12-30,CUST824,Ramesh,Electronics,Smartwatch,7,1052.81,7369.67,Galle,Online
+ORD1999,2024-12-31,CUST256,Dilani,Books,Notebook,1,4551.39,4551.39,Galle,Card
